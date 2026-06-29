@@ -1,0 +1,501 @@
+user_id,product_id,category,subcategory,brand,price,discount,final_price,rating,review_count,stock,seller_id,seller_rating,purchase_date,shipping_time_days,location,device,payment_method,is_returned,delivery_status,Return_Rate_Percentage
+U356787,P39256,Electronics,Mobile,H&M,33090.51,10.46,29629.31,4.9,43.0,71.0,S2679,4.3,3/4/2025,6.0,Bangalore,Tablet,UPI,True,Returned,100
+U198246,P38657,Sports,Outdoor,Samsung,9368.97,5.32,8870.73,3.9,13.0,119.0,S9279,4.9,12/12/2025,1.0,Delhi,Tablet,UPI,True,Returned,100
+U539898,P38893,Sports,Fitness,H&M,14756.85,26.0,10919.43,4.2,46.0,229.0,S5557,4.9,4/25/2024,1.0,Chennai,Mobile App,Credit Card,True,Returned,100
+U325772,P54118,Beauty,Makeup,Sony,668.83,24.81,502.91,3.8,6.0,52.0,S2519,3.1,12/18/2025,2.0,Mumbai,Web,UPI,False,In Transit,0
+U865179,P70217,Home,Decor,Sony,10881.29,48.63,5589.58,4.0,48.0,274.0,S3045,2.6,5/16/2024,5.0,Delhi,Web,UPI,False,Delayed,0
+U705397,P35203,Home,Decor,HP,6155.63,17.64,5069.65,3.3,22.0,360.0,S2139,5.0,7/13/2025,5.0,Bangalore,Mobile App,Credit Card,True,Returned,100
+U498591,P46434,Home,Furniture,Adidas,1104.92,37.81,687.2,3.4,14.0,232.0,S6977,3.3,2/10/2026,1.0,Delhi,Mobile App,Debit Card,False,In Transit,0
+U738720,P93227,Clothing,Kids,Sony,1899.42,63.23,698.36,3.3,18.0,87.0,S9751,4.3,5/27/2024,5.0,Delhi,Tablet,Credit Card,False,Delivered,0
+U330283,P99733,Beauty,Makeup,Sony,3611.18,24.77,2716.69,3.9,17.0,166.0,S1916,3.8,11/3/2024,1.0,Chennai,Mobile App,UPI,False,In Transit,0
+U694731,P51245,Beauty,Makeup,Apple,3826.65,8.46,3502.76,3.4,12.0,108.0,S9179,3.2,12/27/2024,1.0,Mumbai,Web,Cash on Delivery,False,Delivered,0
+U665158,P44438,Home,Furniture,Adidas,5150.37,19.6,4141.13,3.7,8.0,382.0,S8019,3.1,11/2/2025,6.0,Chennai,Tablet,Cash on Delivery,True,Returned,100
+U617488,P21915,Home,Furniture,Nike,17353.88,23.78,13226.52,3.8,15.0,386.0,S1771,2.9,11/29/2025,4.0,Chennai,Mobile App,Credit Card,False,Delayed,0
+U166613,P60432,Clothing,Kids,Boat,3011.46,24.81,2264.24,4.4,54.0,195.0,S8668,2.6,8/17/2025,5.0,Chennai,Tablet,Debit Card,False,Delayed,0
+U887352,P44973,Electronics,Mobile,Zara,50717.33,13.38,43928.98,4.3,6.0,393.0,S6573,4.2,9/1/2024,6.0,Chennai,Mobile App,Debit Card,False,In Transit,0
+U624902,P33416,Clothing,Women,Samsung,1569.37,48.01,815.89,3.4,21.0,259.0,S2743,3.8,3/5/2026,1.0,Bangalore,Tablet,Debit Card,False,Delayed,0
+U492077,P31174,Sports,Cycling,Adidas,10811.67,41.43,6332.66,3.5,15.0,276.0,S9689,3.5,6/29/2024,1.0,Mumbai,Mobile App,Debit Card,False,In Transit,0
+U351083,P17592,Electronics,Mobile,LG,75254.75,35.71,48383.63,5.0,5.0,123.0,S2290,3.8,9/16/2024,2.0,Bangalore,Mobile App,Cash on Delivery,False,Delivered,0
+U676510,P31643,Sports,Fitness,Nike,13298.23,13.49,11504.06,4.4,6.0,135.0,S9645,3.5,3/9/2026,3.0,Hyderabad,Tablet,Cash on Delivery,False,Delivered,0
+U847581,P50857,Sports,Cycling,H&M,10200.33,31.13,7024.88,4.2,17.0,204.0,S7118,2.9,2/26/2025,1.0,Mumbai,Web,Cash on Delivery,True,Returned,100
+U454508,P12757,Electronics,Laptop,Adidas,46155.03,13.3,40014.69,4.8,8.0,301.0,S4770,3.9,9/15/2024,2.0,Delhi,Tablet,Credit Card,False,Delivered,0
+U132938,P53309,Electronics,Mobile,Adidas,12025.61,18.76,9769.8,4.1,45.0,36.0,S9423,4.1,5/23/2024,1.0,Delhi,Mobile App,Debit Card,False,Delayed,0
+U858490,P84847,Beauty,Skincare,Lenovo,2596.13,39.58,1568.45,2.9,15.0,295.0,S8744,2.5,11/9/2025,5.0,Mumbai,Mobile App,Cash on Delivery,False,In Transit,0
+U471507,P65519,Clothing,Men,Apple,2426.83,27.67,1755.4,4.3,14.0,210.0,S8651,3.9,7/22/2025,3.0,Hyderabad,Tablet,UPI,False,Delayed,0
+U939482,P24322,Electronics,Mobile,Boat,75211.61,39.65,45388.79,4.6,6.0,127.0,S4139,4.6,1/23/2025,2.0,Bangalore,Mobile App,Cash on Delivery,False,Delivered,0
+U361941,P19880,Beauty,Skincare,Sony,1623.25,16.53,1354.94,3.4,24.0,226.0,S2604,3.0,5/26/2025,1.0,Hyderabad,Mobile App,UPI,False,Delivered,0
+U604740,P38016,Clothing,Men,Boat,2285.53,44.73,1263.17,4.8,10.0,442.0,S7570,3.9,12/15/2024,3.0,Hyderabad,Mobile App,Credit Card,False,In Transit,0
+U399105,P65444,Electronics,Camera,Sony,26490.59,17.61,21826.48,4.1,6.0,356.0,S8973,4.9,7/29/2025,5.0,Hyderabad,Mobile App,Credit Card,False,In Transit,0
+U163918,P51104,Clothing,Men,HP,4289.1,18.3,3504.14,3.2,2.0,29.0,S1821,2.6,12/21/2024,2.0,Chennai,Tablet,Cash on Delivery,True,Returned,100
+U632496,P20500,Sports,Cycling,Nike,3012.77,12.04,2650.04,4.0,4.0,435.0,S4044,3.2,1/13/2026,1.0,Delhi,Mobile App,UPI,False,Delayed,0
+U358175,P85880,Clothing,Women,Apple,3820.54,24.86,2870.61,4.5,9.0,304.0,S1651,2.7,3/6/2025,1.0,Chennai,Tablet,UPI,False,In Transit,0
+U373432,P36772,Sports,Cycling,Lenovo,748.84,39.35,454.16,3.5,60.0,342.0,S6147,3.5,4/27/2025,6.0,Bangalore,Mobile App,Debit Card,False,In Transit,0
+U579434,P51441,Clothing,Kids,Zara,3357.92,40.19,2008.43,4.0,49.0,475.0,S2188,4.9,11/10/2025,4.0,Bangalore,Mobile App,Cash on Delivery,False,Delayed,0
+U323508,P76307,Sports,Fitness,Apple,10318.94,30.8,7140.55,4.0,15.0,135.0,S3170,3.5,5/24/2024,3.0,Chennai,Web,UPI,False,Delivered,0
+U974244,P81200,Home,Kitchen,Nike,4720.03,5.82,4445.33,4.0,10.0,360.0,S5956,3.5,6/11/2024,1.0,Hyderabad,Tablet,UPI,False,Delayed,0
+U240814,P44664,Sports,Outdoor,Zara,10546.91,20.68,8366.32,4.1,18.0,59.0,S2753,4.4,1/20/2026,3.0,Delhi,Tablet,Credit Card,False,In Transit,0
+U313487,P93130,Home,Decor,Adidas,8839.74,20.34,7042.08,4.7,12.0,436.0,S5325,3.4,9/15/2024,1.0,Bangalore,Tablet,Cash on Delivery,False,In Transit,0
+U969634,P46265,Electronics,Mobile,Zara,45074.56,6.87,41977.04,4.4,17.0,22.0,S1058,4.1,8/25/2024,4.0,Hyderabad,Web,Credit Card,False,Delayed,0
+U678478,P66057,Home,Furniture,H&M,7244.63,40.62,4301.78,3.5,19.0,287.0,S1158,4.7,8/23/2024,2.0,Hyderabad,Mobile App,UPI,False,Delayed,0
+U710805,P82420,Clothing,Kids,Samsung,1026.8,16.07,861.82,3.9,12.0,75.0,S8041,4.7,11/11/2025,2.0,Bangalore,Mobile App,UPI,False,In Transit,0
+U815198,P42706,Home,Furniture,LG,5431.33,44.62,3008.08,4.0,16.0,341.0,S2684,3.4,4/29/2025,4.0,Mumbai,Web,Cash on Delivery,False,Delayed,0
+U532322,P13248,Clothing,Men,Nike,3997.16,16.67,3330.76,3.7,19.0,91.0,S6442,4.4,10/4/2024,3.0,Mumbai,Web,Credit Card,False,In Transit,0
+U140605,P71694,Clothing,Kids,Apple,4202.56,34.01,2773.13,3.4,19.0,113.0,S4269,4.9,10/17/2024,1.0,Hyderabad,Web,Debit Card,False,In Transit,0
+U517821,P53025,Clothing,Men,Samsung,4864.45,69.58,1479.87,3.9,9.0,142.0,S2137,2.9,12/31/2024,3.0,Mumbai,Web,Debit Card,True,Returned,100
+U447235,P13617,Sports,Outdoor,Zara,6070.93,38.17,3753.68,3.8,11.0,59.0,S5279,2.9,6/15/2024,4.0,Chennai,Mobile App,Debit Card,False,Delivered,0
+U557592,P89457,Electronics,Camera,LG,53513.63,14.1,45969.15,4.1,19.0,261.0,S2894,4.5,3/4/2025,1.0,Bangalore,Web,Credit Card,False,In Transit,0
+U945687,P80575,Electronics,Camera,Samsung,56354.84,30.4,39222.87,3.7,125.0,351.0,S4228,2.6,2/5/2025,6.0,Chennai,Web,Cash on Delivery,False,Delivered,0
+U854717,P49363,Home,Decor,LG,16400.51,31.74,11195.66,4.1,18.0,259.0,S6067,2.7,12/10/2025,2.0,Delhi,Tablet,Cash on Delivery,False,In Transit,0
+U233470,P35144,Beauty,Haircare,Sony,561.72,29.05,398.57,4.0,24.0,215.0,S7211,4.4,7/15/2024,5.0,Chennai,Tablet,Credit Card,False,Delayed,0
+U974224,P10053,Sports,Outdoor,Boat,4483.61,14.33,3841.32,4.0,32.0,155.0,S5700,2.8,8/11/2024,2.0,Chennai,Mobile App,Cash on Delivery,False,Delayed,0
+U563246,P67954,Sports,Cycling,LG,12856.63,29.84,9020.75,4.4,23.0,345.0,S4501,3.7,1/14/2025,1.0,Hyderabad,Tablet,Cash on Delivery,False,Delayed,0
+U640490,P97012,Clothing,Kids,Apple,4031.01,47.04,2134.99,3.9,25.0,324.0,S6491,3.6,2/17/2025,2.0,Bangalore,Mobile App,Credit Card,False,Delayed,0
+U125611,P16057,Home,Furniture,Adidas,10765.8,32.99,7213.74,3.1,19.0,125.0,S8784,3.7,6/25/2024,4.0,Mumbai,Tablet,UPI,False,In Transit,0
+U853240,P60328,Beauty,Haircare,HP,564.14,10.76,503.43,3.3,32.0,253.0,S7547,3.7,9/22/2025,1.0,Mumbai,Mobile App,Credit Card,False,Delayed,0
+U284430,P77889,Electronics,Mobile,Boat,55066.83,14.75,46944.11,4.3,7.0,237.0,S1822,2.8,7/8/2024,1.0,Mumbai,Tablet,Credit Card,False,Delivered,0
+U686075,P88047,Beauty,Skincare,Puma,2509.5,28.02,1806.22,3.6,6.0,162.0,S8251,4.5,12/4/2025,1.0,Chennai,Tablet,Cash on Delivery,False,Delayed,0
+U571932,P43972,Beauty,Skincare,H&M,1978.27,32.82,1328.97,3.5,2.0,384.0,S5050,2.9,6/27/2025,5.0,Hyderabad,Tablet,Debit Card,True,Returned,100
+U387936,P67654,Sports,Outdoor,Zara,941.85,44.02,527.2,3.2,3.0,39.0,S5681,3.0,10/13/2025,1.0,Mumbai,Mobile App,Debit Card,False,In Transit,0
+U258157,P40311,Home,Decor,Apple,2694.88,20.43,2144.27,2.7,13.0,196.0,S3503,2.7,9/16/2025,1.0,Mumbai,Tablet,Credit Card,False,Delivered,0
+U588557,P64496,Beauty,Makeup,LG,2271.97,17.77,1868.24,4.5,5.0,31.0,S4388,3.7,5/27/2024,2.0,Chennai,Web,Cash on Delivery,False,Delayed,0
+U468845,P49139,Electronics,Camera,Puma,29776.14,22.07,23203.55,4.5,23.0,385.0,S7389,3.7,9/4/2025,5.0,Delhi,Web,Credit Card,False,In Transit,0
+U130434,P60968,Clothing,Women,Boat,4193.88,60.31,1664.34,3.4,38.0,172.0,S7624,2.8,4/4/2024,4.0,Hyderabad,Tablet,Credit Card,False,In Transit,0
+U513160,P87580,Clothing,Kids,Lenovo,1798.84,41.96,1044.13,3.7,13.0,288.0,S1444,3.9,12/1/2025,1.0,Delhi,Mobile App,Cash on Delivery,False,Delivered,0
+U497519,P52906,Beauty,Skincare,Samsung,866.36,10.25,777.55,5.0,10.0,108.0,S8449,4.8,4/13/2024,3.0,Bangalore,Web,Debit Card,False,In Transit,0
+U593152,P12540,Home,Kitchen,Sony,3361.65,13.16,2919.41,3.9,17.0,383.0,S9837,4.5,4/18/2024,5.0,Delhi,Mobile App,Debit Card,True,Returned,100
+U890870,P14067,Clothing,Kids,Apple,3877.26,24.14,2941.23,4.2,25.0,486.0,S5051,3.5,12/12/2025,1.0,Delhi,Mobile App,UPI,False,Delayed,0
+U801978,P24993,Clothing,Men,Nike,2476.11,54.86,1117.8,3.0,20.0,288.0,S4571,3.8,12/12/2025,1.0,Hyderabad,Web,Debit Card,False,In Transit,0
+U915573,P31465,Clothing,Kids,HP,1530.61,53.83,706.64,3.4,33.0,493.0,S6096,4.4,10/11/2024,4.0,Delhi,Mobile App,UPI,False,In Transit,0
+U849747,P35995,Sports,Cycling,Boat,11789.29,11.44,10440.51,4.2,8.0,38.0,S4978,3.4,8/18/2024,5.0,Hyderabad,Mobile App,Debit Card,False,Delayed,0
+U464069,P79827,Sports,Fitness,HP,6260.67,40.88,3701.42,3.6,11.0,219.0,S7071,2.5,12/24/2024,3.0,Delhi,Mobile App,Debit Card,False,Delivered,0
+U479781,P93307,Beauty,Makeup,Apple,3075.34,48.16,1594.31,3.2,10.0,456.0,S8532,2.9,5/24/2025,2.0,Hyderabad,Tablet,Credit Card,False,In Transit,0
+U745830,P80539,Clothing,Kids,Lenovo,2776.5,65.93,946.03,4.7,36.0,396.0,S8921,2.9,5/5/2024,5.0,Bangalore,Web,Cash on Delivery,False,Delayed,0
+U971084,P21359,Sports,Outdoor,LG,14048.32,46.65,7494.7,3.4,17.0,142.0,S8385,3.0,12/31/2025,4.0,Mumbai,Mobile App,Cash on Delivery,False,Delayed,0
+U130094,P74789,Sports,Cycling,Boat,9314.47,22.07,7258.88,3.5,38.0,435.0,S6325,3.3,2/26/2026,1.0,Bangalore,Mobile App,Cash on Delivery,True,Returned,100
+U393243,P88139,Clothing,Women,Sony,2918.28,54.25,1335.11,3.1,15.0,359.0,S5526,3.1,11/1/2025,4.0,Bangalore,Tablet,UPI,False,Delayed,0
+U612311,P82768,Clothing,Men,Adidas,1244.81,26.66,913.0,3.5,10.0,388.0,S4937,4.9,1/11/2026,1.0,Hyderabad,Tablet,Cash on Delivery,False,Delayed,0
+U408528,P39045,Beauty,Makeup,Samsung,4985.0,31.79,3400.15,3.9,19.0,207.0,S4986,3.4,10/9/2024,2.0,Delhi,Web,Debit Card,False,In Transit,0
+U882169,P82140,Sports,Cycling,LG,9018.08,18.23,7373.9,4.0,123.0,169.0,S6764,3.5,6/30/2025,6.0,Hyderabad,Tablet,Cash on Delivery,False,In Transit,0
+U856321,P35242,Home,Kitchen,Adidas,4456.63,21.8,3485.13,4.3,5.0,161.0,S2958,4.9,4/21/2024,3.0,Delhi,Tablet,Credit Card,False,Delivered,0
+U859782,P87278,Clothing,Kids,Puma,4401.47,21.77,3443.41,5.0,23.0,500.0,S9595,2.9,5/26/2024,1.0,Bangalore,Tablet,Debit Card,False,Delivered,0
+U288158,P49618,Clothing,Women,Adidas,1571.82,61.34,607.64,3.6,64.0,7.0,S9751,3.5,1/17/2025,5.0,Bangalore,Mobile App,Debit Card,False,Delivered,0
+U768854,P74340,Electronics,Headphones,H&M,29299.25,9.3,26575.24,4.3,47.0,52.0,S1200,4.5,4/13/2025,1.0,Mumbai,Tablet,Debit Card,False,In Transit,0
+U153872,P43092,Beauty,Makeup,LG,3033.42,33.09,2029.76,4.5,2.0,481.0,S8827,3.0,10/3/2025,1.0,Mumbai,Mobile App,UPI,False,In Transit,0
+U259097,P29555,Beauty,Skincare,HP,2915.73,26.2,2151.87,3.8,5.0,415.0,S5978,3.9,3/3/2026,1.0,Delhi,Mobile App,Credit Card,False,Delivered,0
+U929151,P91057,Sports,Outdoor,HP,14773.83,28.66,10540.23,3.7,9.0,115.0,S9561,3.8,9/18/2024,3.0,Chennai,Web,Cash on Delivery,False,In Transit,0
+U696251,P91399,Home,Decor,Boat,2276.33,37.41,1424.78,3.4,8.0,30.0,S2625,4.0,5/4/2024,3.0,Bangalore,Mobile App,Credit Card,False,In Transit,0
+U678805,P19838,Electronics,Laptop,Adidas,54877.75,23.16,42166.9,4.2,24.0,80.0,S1043,2.7,1/22/2026,3.0,Mumbai,Web,Cash on Delivery,False,Delayed,0
+U342720,P47762,Sports,Outdoor,Sony,9350.87,47.72,4888.75,4.2,17.0,361.0,S5632,3.0,6/5/2024,5.0,Delhi,Tablet,Cash on Delivery,False,Delivered,0
+U793300,P35928,Clothing,Women,Zara,1680.19,45.81,910.49,4.4,9.0,217.0,S2880,3.4,1/24/2025,5.0,Chennai,Tablet,Credit Card,False,Delayed,0
+U162535,P31747,Clothing,Women,Nike,3672.16,14.67,3133.6,4.3,11.0,405.0,S6039,4.9,8/2/2024,1.0,Delhi,Tablet,Debit Card,False,In Transit,0
+U833723,P62757,Electronics,Camera,H&M,38450.43,33.23,25673.49,4.8,58.0,482.0,S5460,4.8,7/15/2025,6.0,Bangalore,Tablet,Cash on Delivery,False,In Transit,0
+U733039,P42816,Electronics,Mobile,Boat,53499.87,25.59,39809.66,3.4,15.0,13.0,S2496,3.0,6/1/2025,5.0,Bangalore,Mobile App,UPI,False,Delayed,0
+U593355,P78021,Home,Decor,Samsung,16111.49,25.48,12006.05,5.0,28.0,333.0,S8245,3.1,1/20/2025,5.0,Mumbai,Web,Credit Card,False,Delayed,0
+U592841,P55607,Beauty,Haircare,Puma,1831.4,7.94,1685.97,4.0,2.0,209.0,S6460,4.3,1/13/2026,4.0,Delhi,Web,UPI,False,Delivered,0
+U402218,P96846,Home,Kitchen,H&M,17656.64,49.57,8905.06,4.3,16.0,483.0,S7561,3.4,3/22/2025,3.0,Hyderabad,Tablet,UPI,False,In Transit,0
+U221552,P62976,Electronics,Headphones,Sony,62539.12,39.44,37871.86,4.2,85.0,442.0,S9431,3.1,1/27/2026,4.0,Bangalore,Mobile App,Cash on Delivery,False,In Transit,0
+U752878,P75338,Electronics,Laptop,Lenovo,13285.56,6.47,12425.55,3.0,6.0,320.0,S8242,4.9,1/19/2025,4.0,Bangalore,Mobile App,Credit Card,False,In Transit,0
+U832168,P73532,Sports,Fitness,Sony,14198.61,26.03,10502.28,3.4,29.0,62.0,S1472,3.5,7/28/2024,4.0,Hyderabad,Tablet,Credit Card,True,Returned,100
+U679077,P63476,Clothing,Women,Lenovo,1537.56,33.05,1029.47,4.0,33.0,47.0,S4681,4.7,3/9/2026,5.0,Delhi,Mobile App,Cash on Delivery,False,Delivered,0
+U633590,P45838,Clothing,Women,H&M,4977.09,51.76,2400.89,4.0,13.0,212.0,S8905,4.4,8/26/2025,6.0,Bangalore,Web,Credit Card,False,In Transit,0
+U728492,P76616,Sports,Fitness,Boat,6171.96,17.28,5105.25,3.6,19.0,382.0,S3236,4.5,8/20/2024,1.0,Mumbai,Mobile App,Debit Card,False,In Transit,0
+U396578,P49132,Home,Decor,Sony,2652.75,16.69,2210.03,3.8,120.0,428.0,S9022,2.8,10/2/2024,5.0,Delhi,Mobile App,Cash on Delivery,False,Delayed,0
+U899929,P81228,Beauty,Makeup,LG,4437.95,45.79,2405.67,4.8,45.0,193.0,S8460,4.3,11/26/2025,3.0,Chennai,Web,Credit Card,False,Delayed,0
+U997594,P63841,Clothing,Kids,Boat,4406.72,30.04,3082.92,4.0,10.0,22.0,S6213,4.7,3/20/2025,3.0,Mumbai,Tablet,Cash on Delivery,False,Delayed,0
+U619389,P14852,Beauty,Makeup,Zara,818.58,38.46,503.77,4.0,13.0,64.0,S9229,3.1,8/11/2025,5.0,Mumbai,Tablet,Debit Card,False,Delivered,0
+U116093,P28894,Beauty,Skincare,Lenovo,2887.25,21.95,2253.46,3.6,10.0,209.0,S3529,4.6,4/8/2024,2.0,Hyderabad,Mobile App,Cash on Delivery,False,In Transit,0
+U781403,P20527,Home,Decor,H&M,15320.28,39.69,9239.9,4.3,53.0,436.0,S6383,4.1,3/7/2026,6.0,Hyderabad,Tablet,Cash on Delivery,False,In Transit,0
+U171744,P40771,Beauty,Haircare,Samsung,4850.61,10.85,4324.13,4.6,18.0,323.0,S5708,2.9,2/10/2025,2.0,Chennai,Mobile App,UPI,True,Returned,100
+U565230,P31805,Beauty,Skincare,Zara,4300.21,42.17,2486.96,4.3,12.0,355.0,S5906,2.8,11/18/2024,5.0,Delhi,Mobile App,UPI,False,In Transit,0
+U551607,P29080,Electronics,Headphones,LG,70104.07,35.01,45562.32,3.6,11.0,125.0,S9702,3.1,11/5/2025,2.0,Bangalore,Web,Credit Card,False,Delivered,0
+U749813,P99539,Clothing,Men,HP,640.1,38.39,394.35,4.0,31.0,123.0,S9153,4.4,11/10/2025,3.0,Hyderabad,Tablet,Credit Card,False,Delivered,0
+U367729,P97404,Beauty,Haircare,Sony,4620.07,40.84,2733.04,3.3,19.0,4.0,S8622,3.1,9/8/2025,1.0,Hyderabad,Web,Credit Card,False,Delivered,0
+U769975,P65615,Beauty,Makeup,HP,3327.29,31.56,2277.13,4.0,19.0,353.0,S5097,2.7,1/8/2026,1.0,Bangalore,Web,Debit Card,True,Returned,100
+U348728,P59986,Clothing,Women,Puma,2659.72,61.61,1021.14,3.3,19.0,292.0,S6881,3.9,7/6/2025,1.0,Delhi,Tablet,Debit Card,False,Delayed,0
+U387813,P11061,Home,Furniture,Zara,4996.64,47.36,2630.45,3.9,9.0,289.0,S1803,2.6,3/27/2025,1.0,Hyderabad,Tablet,Cash on Delivery,False,In Transit,0
+U767542,P34920,Clothing,Kids,LG,2286.15,58.04,959.38,3.6,12.0,317.0,S5106,2.8,7/10/2025,1.0,Mumbai,Tablet,Credit Card,False,Delayed,0
+U134985,P85965,Electronics,Mobile,Sony,72216.6,37.73,44967.79,4.6,33.0,186.0,S3153,4.5,5/27/2024,4.0,Hyderabad,Mobile App,Debit Card,False,In Transit,0
+U924718,P80701,Beauty,Skincare,Adidas,4123.03,33.96,2722.81,4.7,24.0,448.0,S6994,4.0,10/26/2025,2.0,Mumbai,Tablet,Debit Card,False,Delivered,0
+U943298,P25095,Home,Kitchen,Sony,12699.1,38.49,7810.89,3.8,56.0,239.0,S2233,2.6,8/26/2025,3.0,Bangalore,Mobile App,Credit Card,False,Delayed,0
+U929090,P61717,Beauty,Haircare,LG,2567.73,23.15,1973.38,3.6,4.0,7.0,S5332,2.9,6/21/2024,1.0,Delhi,Tablet,UPI,False,In Transit,0
+U712955,P59941,Home,Decor,H&M,17078.66,39.55,10324.46,5.0,28.0,421.0,S7086,3.6,6/25/2024,3.0,Bangalore,Mobile App,Credit Card,False,In Transit,0
+U779112,P18285,Electronics,Headphones,HP,59394.32,14.69,50669.9,4.8,24.0,325.0,S8606,3.7,12/14/2025,3.0,Mumbai,Tablet,Debit Card,False,Delayed,0
+U139019,P49893,Beauty,Skincare,Nike,2145.49,33.46,1427.52,3.9,1.0,252.0,S2902,3.7,3/17/2025,4.0,Delhi,Mobile App,Credit Card,False,Delayed,0
+U803055,P80804,Clothing,Women,Puma,4418.37,45.58,2404.61,3.7,6.0,214.0,S3531,4.6,8/4/2024,1.0,Bangalore,Web,UPI,False,In Transit,0
+U823811,P58566,Sports,Outdoor,Sony,3936.9,15.56,3324.31,3.8,54.0,111.0,S8264,4.2,10/23/2025,1.0,Delhi,Web,Credit Card,False,In Transit,0
+U163491,P62184,Electronics,Headphones,Lenovo,15931.74,17.57,13131.93,4.7,4.0,141.0,S4109,4.5,11/17/2024,5.0,Bangalore,Mobile App,Cash on Delivery,False,Delivered,0
+U122394,P16629,Clothing,Kids,Zara,2508.66,12.05,2206.33,3.2,37.0,402.0,S6464,3.3,11/22/2025,5.0,Chennai,Mobile App,Credit Card,False,Delayed,0
+U714867,P38305,Clothing,Men,Lenovo,687.08,10.3,616.34,3.9,31.0,416.0,S4817,3.1,4/6/2025,1.0,Mumbai,Web,Credit Card,False,Delayed,0
+U666456,P42853,Electronics,Headphones,Nike,44129.75,10.02,39706.19,4.3,22.0,408.0,S3858,4.3,12/6/2025,1.0,Mumbai,Mobile App,UPI,False,Delivered,0
+U439498,P12068,Electronics,Headphones,Adidas,16712.29,39.25,10152.37,3.9,19.0,89.0,S5347,4.7,8/21/2024,2.0,Chennai,Mobile App,Credit Card,False,Delayed,0
+U599380,P68756,Beauty,Haircare,Apple,3509.73,14.71,2993.61,3.3,102.0,398.0,S6931,3.4,6/7/2024,4.0,Delhi,Tablet,UPI,False,In Transit,0
+U862569,P96363,Sports,Fitness,HP,14903.39,38.86,9112.04,3.8,12.0,266.0,S5941,3.5,10/11/2025,2.0,Delhi,Web,UPI,False,Delivered,0
+U614084,P68138,Beauty,Makeup,Boat,3858.97,24.6,2909.62,3.8,22.0,37.0,S2323,3.3,8/5/2025,5.0,Delhi,Web,Credit Card,False,Delivered,0
+U674993,P52622,Clothing,Women,HP,3244.24,45.79,1758.73,2.8,117.0,195.0,S9692,4.0,2/14/2025,6.0,Chennai,Web,Cash on Delivery,True,Returned,100
+U931621,P24996,Sports,Cycling,Boat,13018.34,28.36,9326.51,3.7,19.0,436.0,S4522,2.9,7/3/2024,1.0,Delhi,Web,Cash on Delivery,False,Delivered,0
+U536196,P22463,Beauty,Makeup,Puma,2092.95,38.61,1284.87,3.9,124.0,160.0,S7992,2.5,12/29/2025,5.0,Hyderabad,Web,Debit Card,False,In Transit,0
+U195656,P21188,Clothing,Kids,Puma,4541.14,66.07,1540.98,3.5,15.0,47.0,S8075,3.8,8/19/2025,4.0,Delhi,Mobile App,Debit Card,False,Delivered,0
+U688967,P53207,Sports,Fitness,HP,1799.58,37.29,1128.45,4.0,18.0,343.0,S3002,3.0,5/8/2025,2.0,Chennai,Web,Debit Card,False,Delayed,0
+U729575,P50953,Beauty,Haircare,Samsung,3603.42,30.53,2503.33,4.5,18.0,180.0,S2697,3.8,2/9/2026,1.0,Bangalore,Tablet,Credit Card,False,Delivered,0
+U986438,P82910,Beauty,Skincare,Apple,2672.84,40.72,1584.5,3.3,32.0,188.0,S2882,4.8,2/21/2025,1.0,Bangalore,Web,Credit Card,False,In Transit,0
+U127529,P89822,Sports,Cycling,HP,12427.91,24.07,9436.73,3.6,26.0,475.0,S5381,3.6,12/16/2025,4.0,Chennai,Mobile App,Credit Card,False,In Transit,0
+U290217,P28776,Home,Kitchen,LG,17515.93,13.03,15233.59,3.4,9.0,289.0,S7566,3.5,8/1/2024,2.0,Delhi,Mobile App,Credit Card,False,Delayed,0
+U325583,P59308,Electronics,Mobile,H&M,49585.73,19.15,40089.49,5.0,11.0,214.0,S8432,3.4,11/18/2025,1.0,Chennai,Web,Credit Card,True,Returned,100
+U914571,P84395,Home,Kitchen,H&M,7407.32,16.92,6153.98,4.4,111.0,305.0,S2391,3.1,9/8/2024,1.0,Bangalore,Mobile App,Credit Card,False,Delivered,0
+U385320,P68079,Sports,Fitness,Zara,12105.17,15.52,10226.81,4.4,22.0,338.0,S7947,3.1,2/9/2026,1.0,Delhi,Web,Cash on Delivery,False,In Transit,0
+U461939,P66349,Home,Furniture,Lenovo,1994.44,49.8,1001.28,2.8,10.0,56.0,S5640,4.9,10/14/2024,5.0,Delhi,Tablet,Cash on Delivery,False,Delayed,0
+U728437,P17180,Home,Furniture,Adidas,4817.74,25.27,3600.46,3.5,69.0,3.0,S4349,3.7,8/19/2025,4.0,Hyderabad,Web,Credit Card,False,Delivered,0
+U108105,P75193,Home,Kitchen,LG,19509.13,39.59,11786.05,4.4,6.0,382.0,S8055,2.7,6/5/2024,3.0,Delhi,Mobile App,Credit Card,False,In Transit,0
+U685864,P97562,Sports,Cycling,Adidas,10776.8,6.63,10062.6,3.4,8.0,412.0,S6802,3.4,3/21/2025,2.0,Chennai,Mobile App,Cash on Delivery,False,Delayed,0
+U181644,P51033,Electronics,Camera,Samsung,22929.15,35.57,14773.99,4.3,11.0,294.0,S8033,3.5,6/17/2024,6.0,Hyderabad,Tablet,Cash on Delivery,False,Delayed,0
+U121869,P52568,Beauty,Makeup,Apple,3214.16,28.96,2283.29,3.5,30.0,87.0,S8538,3.3,7/17/2025,4.0,Hyderabad,Tablet,Debit Card,False,Delivered,0
+U717476,P62487,Beauty,Skincare,Adidas,4795.15,46.97,2542.73,3.5,278.0,268.0,S2288,3.7,12/14/2024,1.0,Hyderabad,Web,Debit Card,False,Delayed,0
+U180089,P76910,Home,Furniture,LG,4321.93,11.59,3821.16,3.5,16.0,324.0,S2868,3.1,5/1/2024,1.0,Mumbai,Tablet,Credit Card,False,In Transit,0
+U347745,P23474,Home,Decor,Zara,3318.67,44.42,1844.36,4.2,12.0,74.0,S5193,4.0,8/20/2025,4.0,Mumbai,Mobile App,Credit Card,True,Returned,100
+U285751,P92306,Sports,Fitness,Zara,3570.45,26.81,2613.32,4.2,79.0,252.0,S8601,2.9,1/18/2026,1.0,Delhi,Tablet,Cash on Delivery,False,Delayed,0
+U438908,P92210,Sports,Cycling,Zara,10528.46,32.81,7073.83,3.3,37.0,161.0,S3473,3.3,9/27/2024,5.0,Chennai,Web,UPI,False,In Transit,0
+U720148,P17362,Beauty,Haircare,Sony,827.41,25.24,618.57,3.6,6.0,180.0,S9312,2.9,7/11/2025,4.0,Bangalore,Mobile App,Debit Card,False,In Transit,0
+U972097,P47627,Beauty,Skincare,Samsung,842.26,40.57,500.6,4.7,44.0,39.0,S2479,2.5,11/26/2024,5.0,Bangalore,Tablet,Cash on Delivery,False,In Transit,0
+U571579,P84928,Sports,Cycling,H&M,7573.88,9.94,6821.18,2.9,157.0,333.0,S4084,2.9,10/12/2025,3.0,Delhi,Web,Cash on Delivery,True,Returned,100
+U208529,P55015,Sports,Fitness,Samsung,12254.95,32.63,8255.71,3.8,56.0,365.0,S2381,4.9,12/15/2024,2.0,Hyderabad,Tablet,Credit Card,False,Delivered,0
+U649525,P78517,Clothing,Kids,Puma,1919.33,60.45,759.05,4.9,10.0,312.0,S3600,3.6,8/7/2025,2.0,Hyderabad,Web,Debit Card,False,In Transit,0
+U154909,P92691,Beauty,Makeup,LG,4435.81,49.47,2241.31,3.5,18.0,331.0,S6482,4.1,3/16/2025,1.0,Chennai,Mobile App,Debit Card,False,Delivered,0
+U364236,P96057,Sports,Cycling,Boat,6120.13,25.79,4541.89,3.3,3.0,493.0,S3463,4.4,12/27/2024,5.0,Bangalore,Web,UPI,False,Delayed,0
+U235215,P87993,Clothing,Women,Sony,594.25,56.15,260.56,3.1,90.0,362.0,S2388,3.1,10/12/2024,2.0,Hyderabad,Web,Cash on Delivery,True,Returned,100
+U197992,P94675,Home,Furniture,Zara,19236.7,19.5,15485.6,4.0,6.0,343.0,S7937,4.0,8/30/2025,2.0,Chennai,Tablet,Debit Card,False,Delivered,0
+U458332,P73736,Home,Kitchen,Nike,13473.09,46.76,7172.57,3.6,5.0,98.0,S4711,3.5,9/24/2025,2.0,Mumbai,Mobile App,Credit Card,False,Delivered,0
+U975686,P79013,Home,Furniture,Lenovo,18638.03,5.57,17599.49,4.4,14.0,19.0,S6517,3.1,9/11/2025,4.0,Chennai,Tablet,Credit Card,False,Delayed,0
+U971728,P91885,Beauty,Skincare,Nike,3696.76,34.53,2420.37,3.9,5.0,414.0,S3712,3.8,8/5/2024,2.0,Mumbai,Tablet,Cash on Delivery,False,Delivered,0
+U565776,P90031,Beauty,Makeup,Zara,640.98,26.98,468.06,3.6,7.0,145.0,S8355,4.0,1/26/2025,5.0,Mumbai,Mobile App,Credit Card,False,In Transit,0
+U561999,P70513,Beauty,Skincare,LG,3506.65,33.63,2327.25,3.5,32.0,393.0,S5616,4.5,10/4/2025,2.0,Chennai,Web,Cash on Delivery,False,Delivered,0
+U154714,P94040,Clothing,Kids,Nike,4466.53,49.45,2257.67,4.4,8.0,246.0,S7081,3.0,7/23/2025,6.0,Bangalore,Tablet,UPI,False,Delayed,0
+U900185,P31012,Sports,Fitness,Sony,11534.37,6.59,10774.37,3.5,38.0,139.0,S8361,4.2,7/20/2025,1.0,Delhi,Tablet,Credit Card,False,In Transit,0
+U127965,P64381,Electronics,Laptop,Puma,61719.85,18.49,50308.99,5.0,37.0,27.0,S7495,3.5,5/30/2025,6.0,Bangalore,Tablet,Debit Card,False,Delivered,0
+U129556,P51770,Beauty,Skincare,LG,3174.03,40.74,1880.97,3.9,8.0,476.0,S2623,4.3,6/12/2024,3.0,Mumbai,Tablet,Debit Card,False,Delivered,0
+U829884,P28191,Clothing,Men,Sony,1514.47,45.96,818.39,3.7,21.0,388.0,S8685,2.7,4/24/2024,3.0,Hyderabad,Web,UPI,False,Delivered,0
+U675462,P89807,Electronics,Headphones,Adidas,9391.32,23.1,7221.51,3.3,16.0,270.0,S7934,2.7,7/22/2024,1.0,Mumbai,Mobile App,Debit Card,False,Delivered,0
+U540218,P93748,Home,Furniture,Samsung,14977.6,33.92,9897.88,4.9,6.0,406.0,S8489,5.0,2/4/2025,2.0,Mumbai,Mobile App,UPI,False,In Transit,0
+U702980,P41711,Sports,Cycling,Samsung,8700.47,49.08,4429.92,4.1,8.0,367.0,S3352,3.2,3/30/2025,6.0,Chennai,Web,Cash on Delivery,False,Delivered,0
+U536802,P34551,Sports,Outdoor,Adidas,6730.02,44.27,3750.45,3.7,30.0,340.0,S2402,4.8,6/7/2024,1.0,Chennai,Tablet,Debit Card,False,Delivered,0
+U681070,P12665,Sports,Cycling,Lenovo,13686.16,40.11,8196.7,3.7,14.0,199.0,S8702,4.1,11/25/2025,1.0,Chennai,Mobile App,Cash on Delivery,False,In Transit,0
+U926823,P18855,Home,Decor,Samsung,2084.04,16.11,1748.22,3.7,29.0,176.0,S4950,4.6,1/30/2026,6.0,Bangalore,Tablet,UPI,False,Delayed,0
+U672536,P54374,Home,Furniture,Samsung,17208.7,30.29,11996.24,3.3,6.0,416.0,S3868,4.7,8/1/2024,3.0,Bangalore,Tablet,Cash on Delivery,False,Delayed,0
+U166165,P69988,Beauty,Haircare,Nike,2888.81,7.35,2676.44,3.0,11.0,18.0,S5807,4.9,9/27/2024,1.0,Mumbai,Mobile App,UPI,False,Delivered,0
+U517568,P81176,Electronics,Headphones,Sony,15872.38,38.15,9817.66,3.5,17.0,242.0,S5150,3.8,3/3/2026,6.0,Chennai,Mobile App,Credit Card,False,In Transit,0
+U386488,P26315,Home,Furniture,Zara,14733.47,29.46,10393.1,3.9,8.0,409.0,S7029,2.9,7/8/2025,1.0,Bangalore,Web,Cash on Delivery,False,Delayed,0
+U620306,P75211,Beauty,Makeup,LG,4337.54,38.72,2658.14,4.3,10.0,188.0,S9507,3.6,7/31/2024,5.0,Mumbai,Web,UPI,False,Delayed,0
+U962287,P33652,Beauty,Skincare,Boat,1441.38,19.86,1155.13,3.9,101.0,279.0,S5813,2.9,10/26/2025,5.0,Chennai,Web,UPI,False,Delivered,0
+U567576,P88986,Home,Decor,Sony,11643.46,29.86,8166.36,3.8,10.0,367.0,S7981,3.7,8/24/2024,4.0,Bangalore,Mobile App,Cash on Delivery,False,In Transit,0
+U744718,P67008,Beauty,Skincare,H&M,2026.02,48.4,1045.4,3.9,4.0,140.0,S1939,3.9,10/2/2025,4.0,Bangalore,Mobile App,Cash on Delivery,False,In Transit,0
+U132653,P28714,Sports,Cycling,Zara,8228.92,12.11,7232.57,4.4,38.0,434.0,S8179,4.7,4/6/2024,2.0,Mumbai,Mobile App,Credit Card,False,Delivered,0
+U501451,P84349,Clothing,Kids,LG,2781.73,53.96,1280.76,3.6,51.0,16.0,S3513,2.7,8/5/2024,6.0,Bangalore,Tablet,Cash on Delivery,False,In Transit,0
+U244383,P79397,Home,Kitchen,Apple,10598.93,49.28,5375.25,4.5,84.0,187.0,S7521,4.9,3/22/2025,4.0,Chennai,Web,Debit Card,False,Delivered,0
+U623285,P77861,Electronics,Mobile,H&M,54210.05,33.8,35885.13,4.1,5.0,198.0,S2929,4.6,5/27/2025,2.0,Mumbai,Web,Debit Card,False,Delayed,0
+U827691,P74382,Beauty,Skincare,HP,1708.88,41.97,991.6,2.8,10.0,102.0,S3009,4.7,4/29/2024,2.0,Bangalore,Mobile App,UPI,False,In Transit,0
+U949884,P99381,Clothing,Kids,Puma,1599.53,35.21,1036.38,3.9,30.0,495.0,S6236,4.1,9/2/2025,1.0,Delhi,Tablet,Debit Card,False,Delayed,0
+U846385,P93584,Electronics,Headphones,Sony,51569.64,27.19,37545.29,4.5,9.0,89.0,S6922,2.5,9/10/2024,1.0,Mumbai,Tablet,Credit Card,False,Delivered,0
+U127560,P57303,Clothing,Men,Adidas,1252.09,14.62,1068.98,4.2,13.0,283.0,S7044,2.7,9/21/2025,6.0,Hyderabad,Web,Credit Card,False,Delayed,0
+U851759,P72739,Electronics,Mobile,Sony,62236.65,33.26,41537.45,4.9,28.0,269.0,S7730,2.8,7/15/2024,3.0,Hyderabad,Web,UPI,False,Delivered,0
+U588461,P99143,Home,Decor,Apple,17426.71,48.96,8895.29,3.9,7.0,264.0,S6644,2.6,1/16/2026,1.0,Hyderabad,Mobile App,Credit Card,False,Delivered,0
+U643269,P30056,Beauty,Haircare,Samsung,4869.33,36.47,3093.52,4.4,157.0,155.0,S3697,3.2,12/13/2024,3.0,Delhi,Mobile App,Debit Card,False,Delayed,0
+U987025,P20336,Clothing,Women,Lenovo,1006.61,24.51,759.85,3.8,14.0,128.0,S4216,2.7,2/23/2026,1.0,Bangalore,Tablet,Debit Card,False,Delivered,0
+U626986,P94015,Home,Decor,Lenovo,12377.36,44.48,6872.31,3.3,5.0,86.0,S3526,3.2,4/8/2024,4.0,Delhi,Mobile App,Debit Card,False,Delayed,0
+U772612,P85598,Electronics,Mobile,Apple,37188.69,13.83,32045.21,4.1,4.0,135.0,S4453,4.8,8/11/2024,4.0,Delhi,Tablet,Cash on Delivery,True,Returned,100
+U757629,P81509,Sports,Cycling,Samsung,8002.97,24.37,6052.71,3.6,3.0,148.0,S5949,2.9,6/4/2024,1.0,Hyderabad,Web,Credit Card,False,Delayed,0
+U822063,P17852,Beauty,Makeup,Puma,3986.25,35.44,2573.56,3.7,12.0,80.0,S8202,4.1,6/5/2025,3.0,Delhi,Web,Cash on Delivery,False,In Transit,0
+U427766,P51853,Clothing,Women,HP,3202.93,14.26,2746.32,3.5,5.0,375.0,S6658,4.8,2/14/2025,3.0,Mumbai,Web,Credit Card,False,In Transit,0
+U353480,P71141,Sports,Cycling,Apple,9526.54,26.14,7036.45,3.3,1.0,62.0,S5382,2.5,2/19/2025,1.0,Bangalore,Web,Credit Card,False,Delivered,0
+U745270,P64805,Electronics,Mobile,Sony,5574.8,33.09,3730.07,4.1,308.0,127.0,S3616,3.2,4/17/2024,3.0,Hyderabad,Web,Debit Card,True,Returned,100
+U589491,P75373,Clothing,Men,Puma,1780.53,44.49,988.43,3.8,11.0,450.0,S6055,3.5,9/4/2024,6.0,Chennai,Web,UPI,True,Returned,100
+U352422,P38199,Electronics,Camera,Lenovo,59739.52,15.39,50548.32,4.7,30.0,298.0,S6781,3.1,6/30/2024,6.0,Hyderabad,Mobile App,UPI,True,Returned,100
+U399628,P80345,Home,Kitchen,HP,14045.21,25.53,10459.38,3.5,14.0,4.0,S2761,4.8,1/6/2025,4.0,Hyderabad,Web,Credit Card,False,In Transit,0
+U520040,P16705,Home,Kitchen,LG,15247.16,34.09,10049.36,4.1,50.0,291.0,S4189,4.8,7/11/2025,5.0,Delhi,Web,Debit Card,False,Delivered,0
+U393308,P91689,Beauty,Haircare,Puma,778.68,7.99,716.46,3.2,22.0,348.0,S2946,3.8,4/23/2024,1.0,Chennai,Mobile App,UPI,False,In Transit,0
+U891638,P28909,Home,Kitchen,Lenovo,8588.01,14.72,7323.66,4.6,17.0,101.0,S9341,4.2,8/12/2024,6.0,Bangalore,Web,UPI,False,Delivered,0
+U943019,P72094,Electronics,Laptop,H&M,37244.83,20.62,29563.2,4.4,32.0,265.0,S8487,4.4,7/6/2024,4.0,Bangalore,Mobile App,Credit Card,False,In Transit,0
+U746447,P49221,Sports,Outdoor,Nike,897.59,22.68,693.98,4.5,440.0,303.0,S6511,2.9,1/25/2025,4.0,Hyderabad,Tablet,Cash on Delivery,False,Delayed,0
+U486251,P53416,Sports,Outdoor,Puma,9864.42,33.66,6544.0,3.6,16.0,344.0,S2795,2.8,9/24/2024,5.0,Delhi,Web,Debit Card,False,Delayed,0
+U705693,P39824,Electronics,Camera,Sony,68535.46,8.68,62583.79,3.9,22.0,369.0,S1841,2.6,12/3/2024,2.0,Chennai,Tablet,Cash on Delivery,True,Returned,100
+U912233,P59832,Clothing,Kids,Zara,1220.11,27.35,886.35,3.8,25.0,75.0,S4968,4.6,12/28/2024,6.0,Chennai,Mobile App,UPI,False,Delivered,0
+U258787,P64127,Electronics,Camera,LG,78800.99,16.91,65472.95,4.0,23.0,353.0,S4340,2.9,12/21/2025,1.0,Hyderabad,Web,Cash on Delivery,False,Delayed,0
+U688132,P52604,Electronics,Laptop,Lenovo,23518.06,11.2,20883.81,5.0,21.0,339.0,S8837,3.9,7/29/2025,4.0,Mumbai,Tablet,Cash on Delivery,False,In Transit,0
+U672808,P56437,Clothing,Women,Lenovo,3112.1,39.33,1887.99,4.0,49.0,346.0,S5331,3.7,10/31/2025,1.0,Bangalore,Tablet,Cash on Delivery,False,Delivered,0
+U335790,P49008,Clothing,Women,Lenovo,1165.93,17.94,956.73,4.6,95.0,394.0,S5735,4.7,11/3/2024,6.0,Bangalore,Tablet,Credit Card,False,Delayed,0
+U687713,P45842,Beauty,Makeup,Puma,4012.21,44.47,2228.02,4.0,19.0,147.0,S2996,3.7,12/5/2024,4.0,Bangalore,Tablet,Cash on Delivery,False,In Transit,0
+U401602,P20358,Home,Furniture,Sony,10926.44,32.26,7401.68,3.8,39.0,177.0,S8247,5.0,3/8/2026,1.0,Delhi,Tablet,Debit Card,False,Delayed,0
+U384303,P83664,Beauty,Skincare,Adidas,2952.94,14.02,2538.9,4.4,16.0,356.0,S5450,3.1,12/3/2025,3.0,Chennai,Mobile App,UPI,False,Delayed,0
+U802371,P79604,Sports,Fitness,Adidas,11557.65,46.82,6146.75,5.0,31.0,115.0,S4814,4.5,2/9/2026,4.0,Delhi,Mobile App,UPI,False,In Transit,0
+U814281,P28018,Home,Decor,Puma,19191.51,35.46,12386.78,3.7,47.0,2.0,S3587,4.6,10/1/2025,2.0,Delhi,Web,Cash on Delivery,False,In Transit,0
+U777273,P17754,Clothing,Women,LG,1142.83,55.97,503.22,4.0,58.0,464.0,S2465,3.2,10/25/2025,1.0,Bangalore,Tablet,Credit Card,False,Delayed,0
+U138105,P62034,Electronics,Laptop,Boat,56555.48,25.2,42305.52,4.0,28.0,403.0,S9116,4.3,2/28/2025,1.0,Mumbai,Mobile App,Debit Card,False,Delivered,0
+U212512,P53914,Electronics,Headphones,HP,8766.95,14.84,7466.36,4.3,16.0,145.0,S8444,4.6,8/3/2024,5.0,Chennai,Tablet,Cash on Delivery,False,Delivered,0
+U948102,P24764,Sports,Outdoor,Sony,6533.76,39.18,3973.67,4.2,8.0,169.0,S3662,4.6,7/26/2025,5.0,Mumbai,Tablet,Cash on Delivery,False,Delayed,0
+U872399,P54185,Home,Decor,Nike,10999.29,18.64,8948.61,4.2,3.0,404.0,S5833,4.4,6/1/2024,3.0,Delhi,Tablet,Credit Card,False,Delivered,0
+U640310,P52982,Sports,Cycling,Boat,9628.59,7.44,8911.75,3.5,61.0,44.0,S7567,2.6,3/20/2025,1.0,Hyderabad,Tablet,UPI,False,Delivered,0
+U107161,P44181,Clothing,Women,LG,3681.39,24.81,2768.06,3.4,61.0,196.0,S4858,2.8,7/13/2024,2.0,Mumbai,Web,Debit Card,False,In Transit,0
+U111991,P44282,Home,Decor,H&M,11864.37,24.01,9016.05,4.2,16.0,334.0,S6890,4.2,10/5/2024,3.0,Chennai,Tablet,Credit Card,True,Returned,100
+U267475,P63138,Electronics,Mobile,Puma,42036.05,10.84,37477.93,4.7,69.0,351.0,S9233,2.8,1/25/2026,1.0,Bangalore,Tablet,Debit Card,False,Delayed,0
+U331577,P38721,Electronics,Headphones,LG,55708.12,39.98,33435.28,4.4,7.0,490.0,S3188,3.7,3/20/2026,4.0,Chennai,Web,Credit Card,False,In Transit,0
+U593699,P80453,Sports,Outdoor,Boat,12954.87,13.37,11222.67,2.8,76.0,410.0,S4578,4.1,9/12/2024,2.0,Chennai,Mobile App,UPI,True,Returned,100
+U181896,P83946,Sports,Outdoor,Lenovo,9312.41,18.29,7609.3,4.1,8.0,57.0,S2011,4.9,4/29/2025,2.0,Bangalore,Tablet,Credit Card,False,Delayed,0
+U995993,P78202,Sports,Fitness,Nike,1737.45,6.94,1616.95,4.3,33.0,226.0,S2904,3.2,11/14/2024,6.0,Bangalore,Tablet,Credit Card,False,Delayed,0
+U567122,P17292,Sports,Outdoor,Apple,780.25,10.6,697.57,3.7,1.0,232.0,S3161,4.0,2/25/2025,6.0,Chennai,Tablet,Cash on Delivery,False,In Transit,0
+U805448,P50392,Sports,Fitness,Lenovo,10324.36,19.03,8359.23,4.3,41.0,370.0,S1356,2.8,1/28/2026,4.0,Hyderabad,Web,Debit Card,False,Delivered,0
+U544278,P55158,Clothing,Kids,Apple,3965.71,11.05,3527.37,4.3,9.0,358.0,S2044,4.1,11/30/2024,1.0,Delhi,Tablet,UPI,False,Delivered,0
+U288724,P27750,Beauty,Skincare,Sony,2832.23,35.4,1829.59,4.5,24.0,392.0,S7887,3.0,3/31/2024,1.0,Hyderabad,Web,Cash on Delivery,False,In Transit,0
+U239449,P95660,Beauty,Makeup,Apple,4699.42,26.3,3463.33,3.9,12.0,440.0,S6697,4.9,2/13/2026,4.0,Chennai,Mobile App,Credit Card,False,Delayed,0
+U975373,P10455,Beauty,Haircare,Nike,4821.29,21.46,3786.85,3.5,11.0,387.0,S1372,4.6,11/8/2024,1.0,Mumbai,Web,Cash on Delivery,False,Delayed,0
+U963355,P40102,Sports,Outdoor,Lenovo,13643.1,12.37,11954.81,4.5,33.0,126.0,S8546,4.3,4/28/2024,4.0,Hyderabad,Web,Credit Card,False,In Transit,0
+U948799,P96533,Clothing,Kids,Apple,772.83,39.84,464.94,3.0,9.0,214.0,S1256,3.8,8/4/2024,1.0,Delhi,Mobile App,Credit Card,False,Delivered,0
+U804667,P16380,Electronics,Mobile,Puma,55971.52,24.13,42465.48,4.1,18.0,125.0,S1724,3.7,2/11/2025,6.0,Chennai,Web,Cash on Delivery,False,Delivered,0
+U628373,P47914,Sports,Fitness,Samsung,8144.87,22.63,6301.39,3.5,27.0,119.0,S6224,5.0,1/7/2025,3.0,Mumbai,Tablet,Debit Card,False,Delivered,0
+U331780,P64206,Home,Furniture,Zara,11821.26,31.71,8072.71,4.0,10.0,153.0,S5508,4.6,10/1/2025,2.0,Chennai,Mobile App,Credit Card,True,Returned,100
+U461145,P94320,Beauty,Haircare,Puma,2096.99,48.52,1079.59,4.3,14.0,343.0,S7244,3.1,1/9/2026,5.0,Delhi,Tablet,Debit Card,False,Delayed,0
+U494747,P34101,Beauty,Makeup,Nike,2912.41,27.45,2112.94,4.1,16.0,386.0,S9813,2.6,2/24/2026,2.0,Bangalore,Web,Credit Card,False,Delivered,0
+U160423,P83713,Home,Decor,Nike,10778.99,16.06,9047.74,4.3,16.0,211.0,S7824,3.2,5/8/2024,5.0,Hyderabad,Tablet,Credit Card,False,In Transit,0
+U778120,P20363,Clothing,Women,Adidas,4637.89,32.3,3139.69,4.6,11.0,472.0,S8369,3.6,11/16/2024,3.0,Bangalore,Web,UPI,True,Returned,100
+U381502,P59436,Sports,Cycling,Adidas,8820.7,23.7,6730.0,3.5,42.0,344.0,S1647,4.7,9/19/2024,1.0,Delhi,Mobile App,Credit Card,False,Delayed,0
+U449138,P49739,Sports,Fitness,Puma,8911.29,28.25,6393.72,3.5,52.0,489.0,S1251,4.8,3/21/2026,3.0,Mumbai,Mobile App,Credit Card,False,Delayed,0
+U837954,P36805,Electronics,Camera,Adidas,68438.72,24.06,51973.94,4.2,9.0,203.0,S4921,2.6,9/20/2025,3.0,Chennai,Tablet,Debit Card,False,In Transit,0
+U423404,P44283,Beauty,Makeup,Lenovo,4421.58,9.28,4011.37,4.3,42.0,184.0,S9401,3.8,4/25/2024,2.0,Bangalore,Web,Cash on Delivery,False,Delivered,0
+U428122,P64254,Beauty,Makeup,Adidas,4668.85,29.6,3286.8,5.0,47.0,23.0,S4625,2.6,3/1/2026,4.0,Bangalore,Tablet,Credit Card,False,Delivered,0
+U854987,P64732,Home,Decor,HP,6779.78,5.07,6436.29,4.2,6.0,151.0,S3497,3.6,4/5/2024,1.0,Chennai,Mobile App,Debit Card,False,Delivered,0
+U677390,P95800,Beauty,Haircare,Adidas,4120.54,21.69,3226.7,4.6,3.0,483.0,S6530,3.5,7/25/2025,1.0,Hyderabad,Web,Cash on Delivery,False,Delayed,0
+U277487,P28344,Beauty,Makeup,Nike,2684.46,33.28,1791.08,2.7,14.0,368.0,S9954,2.8,4/19/2025,4.0,Bangalore,Web,Credit Card,False,Delayed,0
+U901467,P10836,Electronics,Mobile,Apple,47006.88,20.71,37272.47,4.1,13.0,211.0,S3252,2.8,10/31/2024,2.0,Delhi,Tablet,Credit Card,False,Delivered,0
+U578160,P58916,Clothing,Men,Adidas,4327.12,18.53,3525.29,4.2,6.0,30.0,S8916,4.3,2/16/2025,5.0,Chennai,Tablet,Cash on Delivery,False,Delivered,0
+U655134,P46010,Electronics,Camera,Samsung,59529.26,10.71,53155.92,4.7,46.0,274.0,S5697,4.5,3/1/2025,1.0,Delhi,Mobile App,Cash on Delivery,True,Returned,100
+U256130,P41584,Clothing,Men,Apple,4088.96,43.54,2308.67,4.8,20.0,98.0,S9625,2.6,6/19/2024,1.0,Chennai,Web,Debit Card,False,In Transit,0
+U581294,P84055,Beauty,Skincare,LG,1060.43,29.87,743.66,3.3,15.0,124.0,S4700,4.2,6/19/2025,2.0,Hyderabad,Web,UPI,False,Delayed,0
+U495490,P82443,Electronics,Mobile,Boat,51877.19,15.95,43602.67,4.3,22.0,243.0,S1919,2.6,4/20/2024,4.0,Hyderabad,Tablet,UPI,False,Delayed,0
+U776234,P53420,Clothing,Men,Puma,1794.35,30.04,1255.27,3.5,93.0,289.0,S2562,3.4,3/10/2026,6.0,Hyderabad,Tablet,UPI,False,Delivered,0
+U384263,P16102,Clothing,Kids,HP,2000.58,32.89,1342.66,3.5,28.0,473.0,S2218,4.0,7/20/2024,3.0,Hyderabad,Tablet,Debit Card,False,Delayed,0
+U991737,P51220,Sports,Cycling,Samsung,666.47,25.26,498.15,4.0,20.0,8.0,S4394,4.3,9/7/2024,1.0,Mumbai,Tablet,Credit Card,False,Delayed,0
+U691353,P41519,Beauty,Skincare,Sony,1468.53,26.74,1075.89,3.4,7.0,290.0,S7375,2.9,8/31/2024,1.0,Mumbai,Tablet,Debit Card,False,In Transit,0
+U625119,P55332,Clothing,Kids,H&M,1274.5,51.75,614.97,3.4,18.0,27.0,S2600,2.5,4/19/2025,1.0,Delhi,Web,Credit Card,False,Delivered,0
+U515973,P52778,Home,Decor,HP,13844.5,19.08,11202.85,4.3,4.0,15.0,S5478,2.8,6/9/2025,5.0,Chennai,Web,Cash on Delivery,False,Delivered,0
+U294760,P99088,Home,Decor,Boat,5048.62,39.75,3041.61,3.1,83.0,299.0,S7227,2.5,10/31/2025,5.0,Hyderabad,Mobile App,Debit Card,False,Delivered,0
+U498458,P93086,Electronics,Mobile,Sony,48719.45,34.39,31963.34,4.6,7.0,78.0,S7383,2.5,4/30/2024,5.0,Mumbai,Web,Debit Card,False,Delivered,0
+U477400,P45358,Electronics,Mobile,Sony,37518.71,14.05,32245.49,5.0,12.0,52.0,S3170,3.1,3/16/2025,2.0,Hyderabad,Mobile App,Credit Card,False,In Transit,0
+U527865,P23538,Beauty,Haircare,Lenovo,1179.32,41.83,686.05,3.8,15.0,13.0,S2468,3.1,4/19/2025,6.0,Chennai,Web,UPI,False,Delayed,0
+U406024,P64238,Sports,Outdoor,Boat,10256.64,8.65,9369.26,4.2,32.0,198.0,S2387,4.5,11/30/2024,2.0,Delhi,Tablet,Credit Card,False,Delayed,0
+U277735,P28198,Sports,Fitness,Zara,4726.69,39.68,2850.98,3.2,14.0,137.0,S5933,3.2,7/6/2025,3.0,Hyderabad,Web,Cash on Delivery,False,Delivered,0
+U541557,P49289,Electronics,Laptop,Boat,32633.67,27.06,23803.44,4.5,7.0,247.0,S2260,3.8,12/27/2025,2.0,Bangalore,Web,Debit Card,False,Delivered,0
+U580102,P24021,Beauty,Haircare,HP,2600.38,31.95,1769.61,4.0,5.0,69.0,S5991,2.6,12/23/2024,4.0,Mumbai,Mobile App,Cash on Delivery,False,In Transit,0
+U450996,P66441,Sports,Outdoor,LG,6427.27,46.58,3433.37,3.9,7.0,417.0,S3230,4.2,1/12/2026,1.0,Hyderabad,Web,Debit Card,False,Delayed,0
+U517584,P51830,Clothing,Women,LG,4163.57,28.59,2973.27,3.9,3.0,149.0,S9044,3.4,10/15/2024,1.0,Mumbai,Tablet,Credit Card,False,In Transit,0
+U219420,P83905,Beauty,Makeup,Boat,4586.18,19.7,3682.55,3.9,2.0,102.0,S9939,4.8,3/25/2025,1.0,Bangalore,Mobile App,UPI,False,Delayed,0
+U936433,P48185,Beauty,Haircare,Adidas,2703.68,44.8,1492.51,3.6,2.0,425.0,S2133,4.0,8/21/2024,6.0,Hyderabad,Web,Cash on Delivery,False,Delivered,0
+U849979,P65460,Home,Furniture,Sony,4405.81,10.29,3952.46,4.3,50.0,404.0,S7176,3.9,7/13/2025,1.0,Mumbai,Mobile App,Cash on Delivery,False,Delayed,0
+U631221,P64827,Beauty,Haircare,Boat,4431.98,33.56,2944.66,3.4,24.0,278.0,S1602,3.1,6/18/2025,2.0,Chennai,Web,UPI,False,Delivered,0
+U274418,P94803,Clothing,Kids,Zara,2259.65,46.98,1198.11,2.8,82.0,313.0,S1725,4.2,12/22/2025,6.0,Bangalore,Tablet,Cash on Delivery,False,In Transit,0
+U371306,P39098,Beauty,Skincare,Samsung,1772.25,30.89,1224.74,3.8,138.0,261.0,S9499,2.9,2/5/2025,4.0,Delhi,Tablet,Credit Card,False,In Transit,0
+U823975,P75597,Home,Kitchen,Puma,8445.33,27.85,6093.2,3.7,19.0,77.0,S6651,4.2,5/14/2024,1.0,Chennai,Mobile App,Cash on Delivery,False,Delivered,0
+U971699,P28569,Home,Kitchen,Apple,5216.11,37.91,3238.72,4.4,45.0,178.0,S6110,4.6,12/13/2024,4.0,Delhi,Web,Cash on Delivery,False,Delivered,0
+U202365,P67431,Sports,Outdoor,LG,3159.91,43.47,1786.18,3.8,55.0,369.0,S8412,4.1,1/28/2025,5.0,Hyderabad,Web,UPI,False,In Transit,0
+U779445,P24334,Electronics,Mobile,Samsung,6163.12,11.36,5462.97,4.2,31.0,346.0,S3692,2.7,7/7/2024,4.0,Bangalore,Tablet,Credit Card,False,Delayed,0
+U687044,P65885,Clothing,Kids,Nike,4117.17,29.27,2912.09,3.5,6.0,490.0,S8570,3.4,4/2/2025,3.0,Bangalore,Mobile App,Cash on Delivery,False,Delayed,0
+U514798,P13826,Clothing,Men,Zara,703.94,59.88,282.41,3.6,57.0,377.0,S4232,2.8,3/19/2025,4.0,Hyderabad,Web,Cash on Delivery,True,Returned,100
+U315780,P46483,Beauty,Skincare,H&M,2830.56,20.76,2242.96,4.4,43.0,385.0,S2025,4.1,11/14/2024,2.0,Mumbai,Tablet,UPI,False,Delayed,0
+U579776,P24936,Clothing,Women,LG,1264.46,64.49,448.96,4.1,84.0,134.0,S9019,3.9,11/1/2025,1.0,Mumbai,Tablet,Debit Card,False,Delayed,0
+U219781,P55603,Beauty,Haircare,Boat,3638.71,14.1,3125.6,3.3,9.0,180.0,S8501,4.7,7/20/2025,3.0,Chennai,Tablet,Credit Card,False,Delayed,0
+U804758,P27556,Home,Decor,HP,11600.62,24.97,8703.52,4.2,18.0,160.0,S2931,4.2,7/27/2024,1.0,Delhi,Mobile App,Debit Card,False,Delivered,0
+U635638,P60916,Clothing,Women,H&M,4725.81,21.46,3711.86,3.3,40.0,214.0,S3258,2.7,12/13/2025,3.0,Mumbai,Tablet,Cash on Delivery,False,In Transit,0
+U827117,P94575,Clothing,Women,Zara,4197.42,56.42,1829.25,3.5,31.0,476.0,S3838,3.2,9/9/2025,1.0,Chennai,Tablet,Credit Card,False,In Transit,0
+U982885,P69113,Home,Furniture,Nike,16662.21,40.27,9952.38,3.3,14.0,317.0,S1878,4.2,12/25/2025,5.0,Bangalore,Web,UPI,False,In Transit,0
+U629990,P95599,Clothing,Men,Boat,3866.02,59.6,1561.91,4.1,56.0,253.0,S7703,3.1,2/28/2025,3.0,Chennai,Tablet,Cash on Delivery,False,In Transit,0
+U692862,P14044,Beauty,Makeup,Nike,307.64,40.27,183.76,2.9,38.0,407.0,S4613,2.5,11/12/2025,4.0,Delhi,Web,UPI,True,Returned,100
+U276379,P69942,Home,Furniture,Lenovo,15483.75,32.88,10392.9,5.0,55.0,289.0,S9115,3.5,12/9/2025,5.0,Bangalore,Tablet,UPI,False,Delayed,0
+U668373,P15453,Electronics,Headphones,Lenovo,10199.62,25.26,7623.26,4.4,24.0,389.0,S8231,3.4,4/2/2024,3.0,Bangalore,Tablet,Credit Card,False,In Transit,0
+U571578,P44447,Electronics,Laptop,Sony,44575.81,33.15,29796.93,4.6,99.0,178.0,S2425,4.6,10/3/2025,2.0,Delhi,Web,UPI,False,Delivered,0
+U845279,P89988,Clothing,Kids,HP,4386.39,13.26,3804.6,3.9,21.0,323.0,S8015,2.9,6/11/2024,6.0,Bangalore,Mobile App,Credit Card,False,Delivered,0
+U658136,P46842,Clothing,Men,HP,3196.86,50.07,1596.33,3.7,28.0,305.0,S9827,2.6,10/28/2024,4.0,Bangalore,Mobile App,Debit Card,False,Delayed,0
+U999695,P77425,Home,Kitchen,HP,9642.58,33.76,6387.59,4.5,27.0,460.0,S2560,4.0,11/22/2024,2.0,Bangalore,Mobile App,Cash on Delivery,False,Delivered,0
+U361805,P29168,Home,Decor,Nike,1987.8,8.81,1812.77,4.3,26.0,364.0,S6277,3.0,6/14/2025,5.0,Mumbai,Mobile App,Cash on Delivery,False,In Transit,0
+U758309,P64293,Clothing,Kids,Zara,4487.42,58.16,1877.61,4.0,45.0,192.0,S8405,4.6,9/17/2024,1.0,Bangalore,Mobile App,UPI,False,In Transit,0
+U576782,P73968,Sports,Cycling,Sony,12346.12,43.36,6992.27,3.6,16.0,167.0,S1040,3.7,5/16/2024,4.0,Bangalore,Tablet,UPI,False,Delayed,0
+U991401,P18300,Beauty,Haircare,Zara,2304.59,49.34,1167.54,4.1,5.0,407.0,S9756,2.8,11/2/2025,5.0,Bangalore,Web,Credit Card,False,In Transit,0
+U968581,P47171,Clothing,Women,Sony,2098.94,58.54,870.19,3.6,7.0,172.0,S9967,3.3,12/23/2025,6.0,Bangalore,Tablet,Credit Card,False,Delayed,0
+U148174,P23051,Beauty,Makeup,Zara,2987.36,11.48,2644.31,3.1,43.0,320.0,S8529,3.6,6/1/2024,5.0,Delhi,Mobile App,UPI,False,Delivered,0
+U312146,P27290,Beauty,Makeup,Samsung,1553.21,13.58,1342.24,4.1,2.0,451.0,S5945,4.7,9/17/2025,4.0,Hyderabad,Mobile App,Debit Card,False,Delivered,0
+U796787,P95054,Home,Kitchen,Apple,16962.05,21.72,13278.57,3.9,4.0,84.0,S1848,3.7,1/4/2026,1.0,Bangalore,Web,Debit Card,False,Delayed,0
+U837880,P22475,Clothing,Women,Zara,2126.32,37.24,1334.49,3.6,28.0,0.0,S4496,4.5,3/31/2025,4.0,Delhi,Web,UPI,False,Delivered,0
+U109738,P11056,Sports,Fitness,Lenovo,6340.25,48.66,3255.05,3.9,23.0,356.0,S6629,3.9,12/1/2025,3.0,Hyderabad,Mobile App,Cash on Delivery,False,Delayed,0
+U501677,P21708,Clothing,Women,Apple,1753.89,27.14,1277.84,3.3,25.0,374.0,S2678,4.8,10/20/2024,5.0,Mumbai,Mobile App,Debit Card,False,In Transit,0
+U772741,P98753,Home,Furniture,Boat,14859.81,49.48,7506.66,5.0,193.0,73.0,S2120,4.1,1/3/2026,5.0,Mumbai,Tablet,UPI,False,Delayed,0
+U758589,P29840,Clothing,Women,LG,740.82,43.26,420.34,3.5,7.0,470.0,S7745,4.9,10/16/2025,1.0,Mumbai,Tablet,Cash on Delivery,False,Delivered,0
+U718213,P60335,Electronics,Mobile,Nike,50745.62,32.04,34487.7,4.7,91.0,179.0,S8035,4.0,5/20/2025,5.0,Delhi,Web,Credit Card,False,Delivered,0
+U680278,P88774,Home,Decor,Apple,8559.45,6.37,8014.14,3.6,6.0,307.0,S5668,4.8,12/24/2025,2.0,Mumbai,Tablet,UPI,False,Delayed,0
+U634273,P34726,Home,Furniture,Lenovo,1954.62,24.72,1471.48,3.7,26.0,382.0,S7418,3.0,11/16/2024,3.0,Chennai,Web,UPI,False,Delivered,0
+U623850,P93634,Beauty,Makeup,Apple,4591.84,46.51,2456.33,4.3,95.0,304.0,S2163,4.4,3/17/2026,1.0,Mumbai,Tablet,UPI,False,In Transit,0
+U541307,P57895,Home,Furniture,Boat,5501.73,46.81,2926.29,3.5,17.0,279.0,S3830,3.6,9/17/2024,5.0,Chennai,Web,UPI,False,Delivered,0
+U326222,P15220,Sports,Fitness,Samsung,5316.98,18.22,4348.23,3.9,13.0,472.0,S1990,4.2,8/21/2025,3.0,Bangalore,Web,Debit Card,False,Delayed,0
+U186431,P93956,Sports,Outdoor,Boat,11216.47,17.49,9255.17,4.4,87.0,274.0,S9808,3.2,6/13/2024,6.0,Hyderabad,Tablet,Credit Card,False,In Transit,0
+U313068,P30365,Electronics,Headphones,Apple,15669.14,23.94,11918.72,3.3,16.0,274.0,S6353,2.9,1/31/2026,3.0,Chennai,Web,UPI,True,Returned,100
+U160718,P42044,Home,Decor,Boat,19393.45,16.1,16271.17,5.0,13.0,44.0,S8118,3.2,4/28/2024,1.0,Mumbai,Mobile App,Cash on Delivery,False,Delayed,0
+U225245,P11660,Sports,Fitness,Sony,11870.99,25.81,8807.37,3.7,35.0,362.0,S3248,3.4,7/9/2024,1.0,Mumbai,Tablet,UPI,False,Delivered,0
+U921021,P43980,Beauty,Makeup,Lenovo,713.87,37.84,443.76,3.9,37.0,85.0,S7092,2.8,11/24/2024,4.0,Chennai,Mobile App,Debit Card,False,Delayed,0
+U385192,P78662,Electronics,Mobile,LG,60119.44,25.86,44570.83,3.8,15.0,32.0,S5308,3.4,2/4/2025,1.0,Hyderabad,Tablet,UPI,False,In Transit,0
+U623879,P84302,Beauty,Haircare,LG,2990.8,44.29,1666.3,4.8,25.0,85.0,S7024,4.9,6/2/2025,1.0,Delhi,Mobile App,Debit Card,False,Delivered,0
+U339499,P76692,Sports,Cycling,H&M,1597.09,21.27,1257.4,3.9,8.0,1.0,S1721,4.0,8/16/2025,4.0,Delhi,Mobile App,Credit Card,True,Returned,100
+U257375,P33456,Electronics,Camera,LG,60415.0,11.04,53746.19,3.5,35.0,476.0,S1579,3.6,4/29/2025,5.0,Hyderabad,Tablet,Cash on Delivery,False,Delivered,0
+U384434,P20208,Home,Furniture,Boat,15858.96,10.21,14240.31,4.0,12.0,292.0,S7108,4.0,7/24/2025,6.0,Bangalore,Mobile App,UPI,False,Delivered,0
+U172274,P70960,Clothing,Kids,Samsung,3099.34,38.64,1901.72,3.2,4.0,443.0,S5625,3.0,12/17/2024,1.0,Hyderabad,Web,Debit Card,False,Delivered,0
+U310418,P48219,Sports,Outdoor,Samsung,3707.96,22.14,2886.85,4.1,31.0,288.0,S5979,3.2,11/29/2024,3.0,Bangalore,Tablet,Credit Card,False,In Transit,0
+U868043,P81638,Home,Decor,Puma,13904.78,32.08,9444.72,3.9,30.0,389.0,S5016,4.1,10/21/2024,5.0,Mumbai,Mobile App,UPI,False,In Transit,0
+U766833,P11257,Electronics,Laptop,Lenovo,77836.32,9.07,70774.58,4.9,23.0,486.0,S6488,4.1,10/10/2025,4.0,Bangalore,Mobile App,Cash on Delivery,False,Delayed,0
+U349736,P65026,Home,Furniture,Adidas,18863.48,24.72,14200.81,4.8,14.0,251.0,S1981,4.1,6/28/2025,6.0,Chennai,Mobile App,Debit Card,False,Delivered,0
+U834891,P58823,Electronics,Laptop,Lenovo,10258.11,6.47,9594.71,3.3,14.0,234.0,S2391,2.7,10/31/2025,5.0,Hyderabad,Tablet,UPI,False,Delayed,0
+U720647,P84425,Clothing,Kids,Boat,4859.04,13.01,4226.74,2.7,10.0,31.0,S8126,3.5,9/2/2024,4.0,Delhi,Tablet,Credit Card,False,Delivered,0
+U834764,P52762,Home,Kitchen,LG,13871.32,42.1,8031.33,4.1,15.0,162.0,S8417,3.1,5/17/2024,6.0,Hyderabad,Web,Credit Card,False,Delivered,0
+U262959,P23848,Clothing,Men,HP,3956.58,42.85,2261.25,4.1,15.0,84.0,S8365,2.6,4/22/2024,5.0,Delhi,Web,Debit Card,False,In Transit,0
+U423284,P70731,Electronics,Headphones,Adidas,25399.9,30.49,17654.71,4.7,6.0,135.0,S2964,2.8,5/21/2025,6.0,Hyderabad,Mobile App,Credit Card,False,Delayed,0
+U142288,P38183,Home,Decor,H&M,9633.66,13.6,8323.39,2.7,5.0,427.0,S6370,3.0,1/27/2026,3.0,Chennai,Mobile App,UPI,False,Delayed,0
+U151328,P98759,Clothing,Women,Boat,1502.04,19.61,1207.44,3.7,5.0,153.0,S5262,4.3,5/30/2024,1.0,Chennai,Mobile App,UPI,False,In Transit,0
+U361989,P22415,Beauty,Haircare,H&M,451.48,20.1,360.72,3.8,18.0,236.0,S2669,4.9,4/4/2024,5.0,Chennai,Mobile App,UPI,False,Delivered,0
+U963684,P62505,Electronics,Laptop,Nike,15159.47,6.77,14132.9,4.0,11.0,190.0,S2376,4.3,1/22/2026,1.0,Mumbai,Tablet,Debit Card,False,Delivered,0
+U948611,P26880,Electronics,Mobile,Adidas,76006.7,17.74,62520.11,4.5,20.0,47.0,S6432,4.3,11/16/2025,2.0,Hyderabad,Mobile App,UPI,False,In Transit,0
+U961599,P61773,Electronics,Laptop,HP,25361.9,19.91,20311.27,4.3,32.0,254.0,S1483,3.1,7/31/2024,5.0,Hyderabad,Web,Cash on Delivery,False,Delivered,0
+U393448,P68459,Home,Furniture,Nike,4671.74,17.93,3834.11,3.4,5.0,452.0,S3435,4.4,2/27/2026,5.0,Bangalore,Mobile App,Credit Card,False,Delayed,0
+U602300,P17992,Home,Kitchen,Boat,14182.31,14.39,12141.98,4.2,15.0,44.0,S5583,3.2,4/30/2024,5.0,Chennai,Web,Credit Card,False,In Transit,0
+U761393,P81258,Clothing,Kids,Lenovo,2338.05,33.51,1554.46,3.4,36.0,406.0,S1319,3.4,3/31/2026,5.0,Mumbai,Web,Debit Card,False,In Transit,0
+U626797,P52153,Sports,Outdoor,LG,9897.52,44.38,5504.97,3.7,28.0,198.0,S5430,2.6,7/9/2025,4.0,Chennai,Mobile App,UPI,False,In Transit,0
+U161437,P71824,Sports,Fitness,Samsung,14851.47,6.35,13908.26,4.1,1.0,271.0,S6856,4.5,7/17/2024,4.0,Bangalore,Tablet,Credit Card,False,Delivered,0
+U379473,P79951,Electronics,Laptop,Zara,54456.72,26.68,39928.4,3.6,3.0,417.0,S1916,3.8,7/17/2024,3.0,Mumbai,Mobile App,Cash on Delivery,False,In Transit,0
+U433451,P57026,Clothing,Men,Adidas,605.9,15.97,509.12,4.1,227.0,467.0,S1462,4.7,8/19/2024,4.0,Chennai,Tablet,Debit Card,True,Returned,100
+U297377,P74517,Sports,Cycling,Nike,4168.88,43.95,2336.64,3.6,49.0,277.0,S6063,4.9,12/5/2025,2.0,Chennai,Mobile App,Cash on Delivery,False,Delivered,0
+U329437,P12612,Electronics,Mobile,Adidas,62437.18,5.64,58913.53,4.8,19.0,269.0,S8831,4.4,6/23/2024,1.0,Chennai,Mobile App,Debit Card,False,Delayed,0
+U941403,P52413,Clothing,Men,LG,769.74,12.7,671.98,3.4,70.0,30.0,S1359,3.5,5/3/2025,1.0,Mumbai,Mobile App,Credit Card,False,Delivered,0
+U838761,P96787,Sports,Outdoor,Apple,12709.23,26.72,9313.06,4.3,60.0,202.0,S2655,3.2,2/18/2026,4.0,Bangalore,Web,Debit Card,False,In Transit,0
+U930307,P93789,Clothing,Men,H&M,4843.86,43.84,2720.55,3.5,20.0,491.0,S8982,2.8,6/27/2025,6.0,Hyderabad,Tablet,Debit Card,False,Delivered,0
+U334081,P97232,Sports,Cycling,HP,14876.08,37.71,9266.65,3.2,48.0,301.0,S3872,4.9,2/5/2026,5.0,Bangalore,Web,Debit Card,False,Delayed,0
+U836109,P85082,Home,Furniture,Nike,6167.14,33.52,4100.1,3.7,21.0,200.0,S1530,4.8,12/3/2025,5.0,Delhi,Mobile App,Debit Card,False,Delayed,0
+U620287,P28434,Clothing,Kids,HP,1073.16,37.64,669.22,2.8,19.0,169.0,S2274,4.3,12/17/2024,2.0,Delhi,Mobile App,Debit Card,False,In Transit,0
+U568325,P11493,Clothing,Kids,Apple,1031.98,25.27,771.21,3.8,14.0,135.0,S4435,3.9,8/10/2025,5.0,Bangalore,Mobile App,UPI,False,In Transit,0
+U150486,P60585,Home,Furniture,H&M,11428.58,22.49,8857.99,3.7,16.0,224.0,S7875,2.7,12/26/2024,3.0,Delhi,Mobile App,Cash on Delivery,False,In Transit,0
+U206355,P72847,Beauty,Makeup,Lenovo,620.72,45.11,340.72,2.8,13.0,403.0,S4695,3.5,3/22/2026,5.0,Hyderabad,Mobile App,Cash on Delivery,False,Delivered,0
+U373812,P23726,Electronics,Headphones,Samsung,55438.04,9.49,50176.19,5.0,40.0,37.0,S6600,4.5,3/12/2026,5.0,Bangalore,Mobile App,Cash on Delivery,False,Delivered,0
+U743453,P73273,Electronics,Mobile,LG,36945.33,31.86,25173.64,4.1,2.0,360.0,S1507,3.0,1/24/2025,5.0,Chennai,Web,Credit Card,False,Delayed,0
+U447177,P36941,Beauty,Skincare,Samsung,2496.76,29.36,1763.67,3.9,8.0,498.0,S4112,3.2,10/13/2024,5.0,Delhi,Web,Debit Card,True,Returned,100
+U152046,P61498,Home,Kitchen,Adidas,6163.94,34.38,4044.61,3.3,23.0,292.0,S9043,5.0,8/4/2024,2.0,Delhi,Mobile App,UPI,False,In Transit,0
+U963918,P96772,Electronics,Camera,Apple,57532.38,30.63,39908.14,4.1,47.0,320.0,S8869,3.5,5/10/2025,4.0,Bangalore,Mobile App,UPI,False,Delivered,0
+U185916,P72071,Clothing,Men,Zara,2543.83,17.23,2105.61,4.0,21.0,432.0,S2892,3.7,4/23/2024,2.0,Bangalore,Web,Cash on Delivery,False,In Transit,0
+U773045,P81319,Beauty,Haircare,Sony,2596.65,10.14,2333.45,4.0,19.0,198.0,S4029,4.1,3/31/2024,5.0,Delhi,Web,Cash on Delivery,False,In Transit,0
+U561101,P70956,Clothing,Women,Samsung,3417.05,48.93,1745.23,5.0,11.0,134.0,S4706,4.7,5/15/2025,5.0,Bangalore,Web,UPI,False,Delivered,0
+U947438,P80968,Electronics,Mobile,Zara,27302.11,29.44,19265.2,3.7,15.0,211.0,S4727,3.2,3/31/2026,5.0,Bangalore,Tablet,UPI,False,In Transit,0
+U700534,P40886,Sports,Outdoor,Lenovo,2995.25,44.54,1661.03,4.4,23.0,243.0,S5896,3.8,7/28/2025,4.0,Hyderabad,Mobile App,Cash on Delivery,False,Delayed,0
+U281276,P31910,Electronics,Laptop,Apple,28934.26,32.7,19472.95,4.0,39.0,497.0,S4471,4.9,10/10/2025,2.0,Hyderabad,Mobile App,Credit Card,False,Delivered,0
+U311727,P92211,Beauty,Skincare,Zara,1050.34,6.81,978.78,4.0,1.0,75.0,S5225,4.2,1/29/2026,6.0,Hyderabad,Web,UPI,False,Delivered,0
+U441968,P46202,Beauty,Haircare,Boat,305.92,8.88,278.77,3.5,46.0,266.0,S8506,4.0,1/19/2025,6.0,Chennai,Mobile App,Cash on Delivery,False,Delivered,0
+U716493,P86372,Beauty,Skincare,Nike,1108.56,38.85,677.93,3.7,5.0,388.0,S2641,3.4,5/22/2024,3.0,Chennai,Mobile App,UPI,False,In Transit,0
+U501650,P95824,Sports,Outdoor,Boat,11873.88,31.94,8081.92,4.2,18.0,248.0,S8750,3.5,2/26/2025,6.0,Bangalore,Mobile App,Credit Card,True,Returned,100
+U738221,P99235,Home,Kitchen,Nike,1399.4,40.45,833.37,4.2,12.0,355.0,S7581,2.7,5/16/2024,3.0,Chennai,Mobile App,Cash on Delivery,False,In Transit,0
+U381631,P58816,Clothing,Men,H&M,1235.15,13.07,1073.73,4.0,1.0,10.0,S6535,3.2,11/12/2025,3.0,Hyderabad,Web,Debit Card,False,In Transit,0
+U339030,P27614,Beauty,Haircare,Zara,323.89,28.42,231.84,3.5,14.0,153.0,S8259,4.8,12/23/2025,5.0,Delhi,Web,Debit Card,False,Delayed,0
+U297064,P67896,Beauty,Haircare,Zara,3028.23,25.32,2261.47,4.2,42.0,108.0,S7671,3.4,12/16/2025,5.0,Delhi,Tablet,Cash on Delivery,False,Delayed,0
+U168804,P50779,Home,Furniture,Lenovo,19030.63,29.96,13328.5,4.6,80.0,363.0,S9303,3.5,11/29/2024,2.0,Mumbai,Web,Credit Card,False,Delayed,0
+U973390,P36309,Sports,Fitness,Nike,1100.71,48.55,566.3,4.1,21.0,428.0,S1944,2.9,5/5/2025,5.0,Mumbai,Mobile App,UPI,False,In Transit,0
+U387286,P58280,Electronics,Headphones,H&M,8823.12,16.62,7356.76,3.7,85.0,421.0,S8605,4.6,3/7/2026,1.0,Mumbai,Tablet,Cash on Delivery,False,Delayed,0
+U612530,P87862,Electronics,Mobile,Adidas,29369.21,27.08,21417.46,4.4,85.0,228.0,S3909,4.5,3/2/2026,6.0,Bangalore,Web,Debit Card,True,Returned,100
+U398916,P13597,Home,Furniture,Sony,8070.28,13.16,7008.62,3.6,160.0,197.0,S1813,3.8,2/10/2026,5.0,Delhi,Mobile App,Credit Card,False,Delivered,0
+U783238,P63674,Clothing,Kids,Adidas,1108.48,19.52,892.06,3.5,6.0,262.0,S1328,4.0,7/12/2024,3.0,Bangalore,Tablet,UPI,False,In Transit,0
+U939767,P11109,Clothing,Kids,Nike,2074.34,28.9,1474.84,3.6,41.0,114.0,S5135,4.2,7/10/2025,2.0,Chennai,Tablet,Debit Card,True,Returned,100
+U581294,P43029,Home,Kitchen,Boat,8835.66,10.87,7874.98,3.0,10.0,111.0,S8646,4.0,2/2/2025,6.0,Bangalore,Web,Cash on Delivery,False,Delayed,0
+U688730,P94848,Electronics,Mobile,Lenovo,43528.09,30.71,30160.05,4.3,14.0,304.0,S5631,3.7,3/4/2026,3.0,Bangalore,Web,UPI,False,In Transit,0
+U390334,P44229,Electronics,Headphones,Sony,11856.65,36.38,7543.19,4.0,58.0,335.0,S5895,4.1,1/23/2025,1.0,Bangalore,Mobile App,Credit Card,False,Delayed,0
+U792616,P51888,Clothing,Men,HP,3252.41,19.88,2605.92,4.1,11.0,348.0,S3292,3.9,5/17/2025,2.0,Hyderabad,Tablet,UPI,False,Delayed,0
+U524252,P60891,Beauty,Makeup,Sony,591.56,12.73,516.24,3.1,22.0,377.0,S1578,3.4,7/22/2024,4.0,Hyderabad,Tablet,Credit Card,True,Returned,100
+U819656,P80075,Home,Decor,H&M,17406.12,16.97,14452.32,4.3,2.0,326.0,S8794,3.9,12/27/2025,4.0,Mumbai,Tablet,Debit Card,False,Delayed,0
+U289934,P48506,Home,Furniture,Zara,18703.07,17.92,15350.55,4.2,15.0,49.0,S8713,4.8,6/19/2025,5.0,Chennai,Mobile App,Debit Card,True,Returned,100
+U786224,P21704,Sports,Fitness,Zara,13720.03,6.81,12785.28,4.9,23.0,113.0,S6820,4.9,11/4/2025,4.0,Bangalore,Mobile App,Debit Card,False,In Transit,0
+U408334,P70786,Home,Kitchen,Sony,6764.33,36.12,4320.75,3.8,30.0,435.0,S2929,4.9,12/3/2024,1.0,Chennai,Web,UPI,False,Delayed,0
+U595158,P35499,Sports,Cycling,HP,2634.79,14.3,2258.12,4.3,4.0,256.0,S2963,3.2,4/18/2025,5.0,Delhi,Tablet,Cash on Delivery,False,Delayed,0
+U244037,P36253,Home,Kitchen,Samsung,18275.8,45.36,9985.02,3.8,29.0,175.0,S7704,2.6,10/10/2025,5.0,Mumbai,Tablet,Cash on Delivery,False,Delivered,0
+U611265,P53598,Home,Decor,Nike,6080.89,32.0,4135.09,5.0,8.0,323.0,S3897,4.6,9/25/2024,4.0,Delhi,Web,UPI,False,Delivered,0
+U704272,P30766,Beauty,Makeup,Adidas,4736.12,19.92,3792.55,5.0,20.0,250.0,S2442,3.3,4/1/2025,1.0,Mumbai,Mobile App,Cash on Delivery,False,Delayed,0
+U501936,P10611,Beauty,Makeup,Boat,2337.97,35.72,1502.86,3.6,40.0,19.0,S9745,2.8,2/2/2026,6.0,Hyderabad,Mobile App,Debit Card,False,Delivered,0
+U809621,P10540,Home,Decor,Adidas,13876.74,12.6,12128.46,4.0,17.0,320.0,S5076,2.7,3/12/2025,2.0,Delhi,Mobile App,Debit Card,False,In Transit,0
+U717265,P50123,Clothing,Men,Boat,4192.48,44.67,2319.71,3.7,2.0,85.0,S2069,4.8,5/20/2025,5.0,Chennai,Mobile App,Debit Card,False,In Transit,0
+U649577,P54280,Beauty,Haircare,Lenovo,3587.05,11.39,3178.49,3.4,13.0,222.0,S3192,4.7,5/31/2024,2.0,Chennai,Web,Cash on Delivery,False,In Transit,0
+U339513,P39402,Clothing,Men,Boat,4826.37,24.93,3623.28,3.8,27.0,372.0,S3149,2.5,4/21/2025,4.0,Delhi,Mobile App,UPI,False,Delayed,0
+U845652,P95267,Sports,Fitness,Apple,5489.33,28.42,3929.02,4.4,17.0,405.0,S1612,2.7,6/16/2025,5.0,Bangalore,Web,Debit Card,False,Delayed,0
+U794125,P24170,Sports,Fitness,HP,8185.91,26.06,6052.73,4.5,14.0,334.0,S1323,4.1,12/16/2025,4.0,Delhi,Mobile App,UPI,False,In Transit,0
+U365015,P72180,Beauty,Makeup,Apple,3810.15,19.44,3069.52,4.2,17.0,359.0,S3508,3.0,8/12/2025,3.0,Chennai,Mobile App,UPI,True,Returned,100
+U794663,P78197,Home,Kitchen,Zara,1004.31,38.4,618.62,3.9,15.0,138.0,S3247,4.3,11/11/2025,1.0,Delhi,Web,UPI,False,Delayed,0
+U922880,P23928,Sports,Fitness,Sony,10809.51,15.55,9128.36,4.0,23.0,254.0,S4254,2.6,1/3/2025,5.0,Delhi,Tablet,Credit Card,False,In Transit,0
+U409698,P31020,Sports,Fitness,LG,5448.04,24.99,4086.67,3.9,154.0,20.0,S9980,2.5,4/16/2025,2.0,Hyderabad,Web,Credit Card,False,Delayed,0
+U113368,P98032,Beauty,Makeup,Adidas,2519.51,38.96,1538.02,3.9,3.0,45.0,S2809,4.7,1/10/2025,5.0,Delhi,Tablet,Cash on Delivery,False,Delivered,0
+U368322,P94454,Electronics,Mobile,H&M,25030.63,9.27,22711.35,3.4,23.0,118.0,S8483,3.2,6/24/2024,5.0,Delhi,Web,Debit Card,False,In Transit,0
+U993647,P48085,Electronics,Mobile,Nike,36304.61,16.56,30294.22,4.1,14.0,184.0,S6123,4.2,7/3/2024,1.0,Delhi,Web,UPI,False,Delivered,0
+U444625,P56861,Electronics,Mobile,Nike,68323.61,5.73,64411.04,4.4,5.0,457.0,S8171,2.9,6/17/2025,4.0,Mumbai,Tablet,Debit Card,False,Delayed,0
+U219361,P62530,Electronics,Headphones,LG,69045.72,36.82,43621.65,4.2,8.0,204.0,S8479,3.5,10/13/2025,1.0,Mumbai,Web,Cash on Delivery,False,Delayed,0
+U218548,P27368,Beauty,Makeup,Zara,1004.32,27.65,726.62,4.1,45.0,356.0,S1960,2.8,12/24/2025,3.0,Mumbai,Mobile App,UPI,False,In Transit,0
+U290065,P90127,Sports,Outdoor,HP,14286.87,14.45,12223.08,4.4,57.0,194.0,S6875,2.9,1/25/2026,3.0,Hyderabad,Tablet,UPI,False,Delayed,0
+U531262,P67761,Clothing,Women,Puma,989.07,30.56,686.86,3.2,32.0,23.0,S2037,3.8,4/12/2025,1.0,Delhi,Web,Debit Card,False,Delivered,0
+U334865,P97797,Sports,Cycling,HP,12394.7,30.28,8641.11,4.2,24.0,447.0,S6542,4.0,7/19/2024,2.0,Chennai,Tablet,UPI,False,In Transit,0
+U255875,P83183,Clothing,Women,LG,2219.56,27.99,1598.22,4.4,107.0,456.0,S1894,4.4,3/4/2025,1.0,Hyderabad,Mobile App,Credit Card,False,Delayed,0
+U887931,P74441,Beauty,Makeup,Nike,2468.07,28.28,1770.14,3.2,13.0,164.0,S4946,4.2,5/11/2024,3.0,Delhi,Web,Debit Card,True,Returned,100
+U522866,P40801,Electronics,Laptop,Lenovo,28707.6,7.82,26462.57,3.9,9.0,40.0,S8521,4.6,10/15/2024,1.0,Hyderabad,Web,Cash on Delivery,False,Delivered,0
+U621533,P95638,Beauty,Makeup,LG,1845.63,30.67,1279.6,4.6,37.0,9.0,S2681,4.7,11/2/2025,4.0,Delhi,Web,Cash on Delivery,False,Delivered,0
+U930244,P89194,Sports,Cycling,Samsung,13789.09,19.75,11065.37,4.6,10.0,493.0,S5990,4.3,9/26/2025,3.0,Delhi,Tablet,Credit Card,False,Delayed,0
+U956255,P39218,Beauty,Makeup,LG,1433.9,15.21,1215.75,4.0,23.0,432.0,S8445,3.2,2/27/2026,1.0,Delhi,Web,Cash on Delivery,False,Delayed,0
+U202170,P96364,Home,Decor,Puma,4616.4,18.47,3763.96,2.9,10.0,113.0,S1035,4.6,11/10/2025,2.0,Delhi,Web,Debit Card,False,Delayed,0
+U836201,P23935,Home,Decor,Lenovo,18878.85,41.23,11095.22,3.8,59.0,23.0,S3689,2.7,12/10/2025,1.0,Bangalore,Web,Credit Card,True,Returned,100
+U305438,P34581,Beauty,Skincare,Sony,3172.18,34.78,2069.0,3.7,15.0,61.0,S7437,4.4,1/4/2026,6.0,Chennai,Mobile App,Cash on Delivery,False,Delivered,0
+U764000,P98098,Home,Furniture,Boat,19378.15,24.22,14684.81,4.5,18.0,301.0,S3018,4.0,2/2/2026,3.0,Delhi,Web,Cash on Delivery,False,Delayed,0
+U104548,P79515,Sports,Cycling,Nike,1279.84,5.99,1203.13,3.1,6.0,376.0,S1795,3.9,7/15/2025,1.0,Hyderabad,Tablet,Cash on Delivery,False,Delayed,0
+U282085,P26827,Beauty,Haircare,Nike,3710.0,48.89,1896.05,2.9,47.0,53.0,S7347,3.7,2/10/2026,5.0,Chennai,Tablet,Debit Card,False,Delayed,0
+U386886,P62149,Beauty,Makeup,HP,3147.84,13.63,2718.85,4.9,81.0,493.0,S6617,2.7,7/6/2025,3.0,Mumbai,Web,Cash on Delivery,False,Delivered,0
+U413433,P81802,Clothing,Women,HP,4313.96,52.4,2053.61,4.9,35.0,440.0,S6143,3.8,9/25/2025,5.0,Chennai,Tablet,Credit Card,False,Delivered,0
+U819964,P55258,Clothing,Kids,H&M,4264.39,28.38,3054.32,4.3,6.0,471.0,S3173,3.1,11/24/2024,6.0,Bangalore,Tablet,Credit Card,False,Delayed,0
+U844858,P25126,Sports,Cycling,Zara,8220.83,30.4,5721.8,3.3,28.0,389.0,S6771,4.7,9/8/2025,2.0,Bangalore,Tablet,Cash on Delivery,False,Delayed,0
+U806995,P79979,Sports,Cycling,H&M,3164.88,19.78,2538.95,3.6,19.0,146.0,S7920,3.8,10/15/2024,4.0,Hyderabad,Mobile App,UPI,False,Delivered,0
+U309612,P44993,Beauty,Skincare,Samsung,4064.84,8.82,3706.18,4.8,9.0,384.0,S3636,4.5,4/1/2024,5.0,Delhi,Web,Debit Card,False,Delivered,0
+U133875,P57013,Electronics,Headphones,Adidas,15263.39,30.36,10628.76,4.0,23.0,416.0,S8415,4.8,1/17/2025,6.0,Chennai,Mobile App,Credit Card,False,Delayed,0
+U922405,P47701,Sports,Outdoor,Adidas,1738.34,48.76,890.71,5.0,29.0,354.0,S1769,3.7,10/21/2025,6.0,Chennai,Web,Cash on Delivery,False,In Transit,0
+U879794,P42943,Home,Decor,Samsung,9679.54,16.49,8083.3,3.7,61.0,103.0,S8259,2.8,2/6/2025,1.0,Delhi,Mobile App,Debit Card,False,Delayed,0
+U913848,P35362,Sports,Cycling,HP,1154.69,24.71,869.42,3.6,40.0,150.0,S8353,4.0,2/19/2025,1.0,Mumbai,Mobile App,UPI,False,Delivered,0
+U495521,P15326,Clothing,Kids,Lenovo,2057.89,63.09,759.6,3.6,4.0,219.0,S5572,4.9,4/11/2024,1.0,Delhi,Tablet,Debit Card,False,Delivered,0
+U446620,P71122,Clothing,Kids,Sony,3203.56,37.34,2007.38,4.6,17.0,363.0,S3536,2.7,7/23/2024,5.0,Delhi,Mobile App,Credit Card,False,In Transit,0
+U984096,P96755,Sports,Fitness,Zara,2886.69,7.87,2659.38,3.3,10.0,154.0,S9037,4.4,11/8/2024,3.0,Chennai,Tablet,Debit Card,False,Delivered,0
+U645895,P18936,Home,Decor,Adidas,11123.71,5.47,10514.71,4.4,14.0,402.0,S9276,4.0,4/2/2025,3.0,Mumbai,Mobile App,Cash on Delivery,False,Delayed,0
+U331942,P37964,Sports,Outdoor,Apple,13539.11,33.06,9063.39,3.7,9.0,339.0,S6437,4.2,7/10/2024,2.0,Bangalore,Web,Debit Card,False,In Transit,0
+U688602,P95105,Clothing,Kids,Lenovo,1841.03,22.54,1426.02,4.0,23.0,4.0,S2879,3.1,3/15/2026,5.0,Hyderabad,Tablet,Debit Card,False,In Transit,0
+U355671,P15226,Clothing,Kids,HP,4312.71,69.15,1330.55,4.0,31.0,349.0,S6258,3.6,4/23/2025,2.0,Chennai,Web,UPI,True,Returned,100
+U125905,P77746,Beauty,Makeup,Lenovo,2784.14,22.46,2158.86,3.7,23.0,420.0,S7143,3.6,2/28/2025,6.0,Bangalore,Tablet,Cash on Delivery,True,Returned,100
+U435872,P77357,Beauty,Skincare,Sony,2257.49,14.68,1926.05,4.2,24.0,42.0,S2572,4.5,3/9/2025,2.0,Mumbai,Mobile App,UPI,False,Delayed,0
+U818699,P65601,Electronics,Laptop,Zara,60390.95,39.4,36595.02,5.0,48.0,427.0,S2702,3.1,6/13/2025,1.0,Mumbai,Mobile App,Cash on Delivery,False,Delayed,0
+U851690,P53478,Electronics,Laptop,Samsung,52165.47,27.88,37624.07,4.6,4.0,19.0,S2433,3.6,8/29/2024,5.0,Hyderabad,Mobile App,UPI,False,Delivered,0
+U961530,P39837,Home,Decor,Apple,2110.7,12.56,1845.58,3.2,3.0,466.0,S5237,3.9,8/5/2025,3.0,Chennai,Web,Cash on Delivery,False,In Transit,0
+U508422,P98250,Beauty,Makeup,LG,4019.17,17.7,3307.61,3.1,34.0,60.0,S9762,4.2,10/19/2025,1.0,Delhi,Mobile App,UPI,False,Delayed,0
+U475075,P75907,Sports,Fitness,H&M,7778.21,45.95,4204.37,4.2,103.0,54.0,S5748,3.6,9/28/2025,4.0,Delhi,Tablet,Debit Card,False,Delayed,0
+U514306,P96602,Electronics,Headphones,Puma,40633.13,35.2,26328.81,3.8,19.0,15.0,S8765,4.7,4/18/2024,5.0,Hyderabad,Mobile App,Credit Card,False,Delivered,0
+U412534,P98773,Beauty,Haircare,Sony,462.13,28.07,332.42,3.7,3.0,454.0,S7113,4.0,10/28/2024,4.0,Mumbai,Mobile App,Credit Card,False,Delivered,0
+U513224,P80405,Electronics,Mobile,HP,18175.41,5.33,17205.93,3.9,10.0,280.0,S2394,5.0,6/6/2025,2.0,Chennai,Web,Credit Card,False,Delayed,0
+U249375,P31096,Home,Furniture,Boat,17931.66,49.27,9097.27,3.5,53.0,94.0,S4617,2.7,9/12/2024,5.0,Chennai,Tablet,Debit Card,False,Delivered,0
+U993650,P17128,Electronics,Laptop,Zara,8529.38,21.0,6738.46,4.1,3.0,435.0,S9992,4.7,6/2/2025,5.0,Chennai,Web,UPI,False,In Transit,0
+U860835,P86099,Electronics,Headphones,Apple,37462.99,36.29,23868.54,4.7,4.0,249.0,S6420,3.6,10/11/2024,5.0,Mumbai,Web,Credit Card,False,Delayed,0
+U173199,P35362,Clothing,Men,Sony,4814.92,26.74,3527.39,3.9,10.0,162.0,S8960,4.3,12/3/2025,1.0,Chennai,Web,Debit Card,False,Delayed,0
+U693024,P84299,Home,Decor,HP,2412.36,26.25,1779.11,3.4,93.0,186.0,S6182,4.8,5/5/2025,4.0,Mumbai,Web,Credit Card,False,Delivered,0
+U390119,P57118,Home,Furniture,Adidas,19019.02,48.23,9845.47,3.8,20.0,68.0,S6432,4.2,4/14/2025,2.0,Hyderabad,Web,Cash on Delivery,False,In Transit,0
+U214119,P33038,Home,Kitchen,Puma,6462.71,23.25,4959.87,3.9,65.0,330.0,S2343,3.9,8/3/2024,5.0,Chennai,Web,Credit Card,False,Delayed,0
+U862760,P19882,Clothing,Women,H&M,2818.25,56.33,1230.75,3.6,6.0,456.0,S1305,2.6,12/18/2024,3.0,Delhi,Tablet,UPI,False,Delayed,0
+U138436,P82298,Sports,Outdoor,HP,10729.61,13.44,9287.8,3.5,43.0,133.0,S9904,4.1,5/20/2025,2.0,Mumbai,Tablet,Cash on Delivery,True,Returned,100
+U909652,P87280,Clothing,Women,Boat,2504.83,18.37,2044.77,4.4,24.0,375.0,S5767,4.1,9/19/2024,5.0,Mumbai,Mobile App,Cash on Delivery,False,Delayed,0
+U626560,P11388,Sports,Fitness,Boat,10913.44,10.6,9756.73,4.5,178.0,339.0,S4913,4.7,8/11/2025,6.0,Bangalore,Tablet,Credit Card,False,Delayed,0
+U693868,P84162,Clothing,Women,Nike,2495.48,26.41,1836.46,3.8,11.0,337.0,S3395,2.6,12/10/2025,1.0,Mumbai,Tablet,Cash on Delivery,False,In Transit,0
+U165914,P44649,Electronics,Laptop,Puma,76139.02,32.28,51563.03,5.0,28.0,189.0,S4834,4.2,6/12/2025,1.0,Mumbai,Mobile App,Credit Card,False,Delayed,0
+U148693,P15230,Home,Kitchen,Puma,2682.99,31.83,1829.09,3.4,39.0,332.0,S6309,4.5,8/22/2024,4.0,Hyderabad,Mobile App,Debit Card,False,Delayed,0
+U282294,P59369,Home,Decor,Lenovo,18818.69,8.1,17294.05,3.2,18.0,334.0,S7201,2.8,5/9/2024,5.0,Chennai,Web,UPI,False,Delayed,0
+U525556,P56255,Home,Kitchen,Adidas,5057.31,14.79,4309.57,3.2,4.0,418.0,S6653,3.5,10/17/2025,4.0,Chennai,Web,Cash on Delivery,False,Delayed,0
+U341162,P20104,Electronics,Laptop,Puma,38329.67,20.13,30614.64,4.3,13.0,263.0,S5600,4.2,3/19/2025,4.0,Mumbai,Mobile App,Credit Card,False,Delivered,0
+U793223,P40191,Clothing,Women,HP,774.07,29.76,543.69,4.3,42.0,212.0,S6410,3.2,3/21/2025,2.0,Delhi,Tablet,UPI,False,In Transit,0
+U269078,P94837,Beauty,Makeup,Adidas,4939.37,34.8,3220.26,4.2,24.0,426.0,S7732,3.6,9/22/2024,1.0,Chennai,Mobile App,Credit Card,False,Delivered,0
+U241268,P92515,Clothing,Kids,HP,509.34,20.45,405.18,4.7,29.0,262.0,S1642,3.1,3/18/2025,2.0,Mumbai,Tablet,Credit Card,True,Returned,100
+U641737,P63143,Electronics,Laptop,Sony,41900.13,14.03,36019.96,3.7,18.0,306.0,S1305,2.9,12/21/2025,1.0,Mumbai,Tablet,Debit Card,False,Delivered,0
+U605065,P32356,Clothing,Women,HP,3294.98,36.32,2098.28,3.8,11.0,112.0,S7730,3.6,12/13/2024,1.0,Hyderabad,Tablet,Credit Card,False,Delayed,0
+U377370,P31983,Clothing,Kids,Zara,654.7,27.56,474.27,3.3,22.0,370.0,S6614,2.9,10/27/2024,4.0,Chennai,Web,UPI,False,Delivered,0
+U117367,P36522,Beauty,Makeup,Nike,2735.31,9.8,2467.19,4.3,28.0,267.0,S9263,4.1,12/8/2024,4.0,Delhi,Tablet,Cash on Delivery,False,Delivered,0
+U744610,P88618,Sports,Fitness,Nike,13541.48,11.01,12050.69,4.5,13.0,19.0,S9706,4.3,6/12/2024,5.0,Hyderabad,Tablet,UPI,False,Delivered,0
+U665482,P10157,Beauty,Haircare,Nike,3267.72,49.9,1637.28,3.4,7.0,459.0,S8069,5.0,10/13/2024,4.0,Chennai,Tablet,Cash on Delivery,False,In Transit,0
+,,,,,,,,,,,,,,,,,,,,0
